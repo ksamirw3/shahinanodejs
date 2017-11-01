@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+        var socket = io.connect();
+        socket.emit('suggestPrice', {
+            orderId: "sadas",
+            amount: "20",
+            connToken: "asdas"
+        })
+        socket.on('bakc', function (r) {
+            console.log(r)
+        })
+    </script>
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+</html>

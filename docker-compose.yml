@@ -1,0 +1,15 @@
+version: '2'
+services:
+
+  # The Application
+  myapp:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    working_dir: /app
+    volumes:
+      - ./:/app
+    ports:
+      - 30010:30010
+volumes:
+  dbdata:

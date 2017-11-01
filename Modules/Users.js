@@ -1,0 +1,49 @@
+exports.init = function (Cons, Http) {
+    var _this = this;
+    _this.opt = {host: Cons.baseServerHost}
+
+    return {
+        makeDriverData: function (driverData, amount) {
+
+            var data = {
+                full_name: '',
+                rate: 0,
+                presonal_image: '',
+                plate_no: '',
+                phone: '',
+                driverToken: ''
+            }
+
+            if (driverData == undefined)
+                return data;
+
+
+            data.full_name = ( driverData.full_name == undefined) ? '' : driverData.full_name;
+            data.phone = ( driverData.phone == undefined) ? '' : driverData.phone;
+            data.rate = ( driverData.rate == undefined) ? 0 : parseInt(driverData.rate);
+            data.presonal_image = ( driverData.presonal_image == undefined) ? '' : driverData.presonal_image;
+            data.plate_no = ( driverData.plate_no == undefined) ? '' : driverData.plate_no;
+            data.driverToken = ( driverData.driverToken == undefined) ? '' : driverData.driverToken;
+
+            if (amount != undefined)
+                data.amount = amount;
+            return data;
+        },
+        /**
+         *
+         * @param fullPathWithId
+         * @param callback
+         */
+        getUserInfo: function (fullPathWithId, callback) {
+            _this.opt.path = fullPathWithId;
+            Http.get(_this.opt, function (res) {
+                try {
+                    res = JSON.parse(res);
+                } catch (e) {
+                    res = {data: null};
+                }
+                callback((res.data == null) ? {} : res.data);
+            })
+        }
+    }
+}

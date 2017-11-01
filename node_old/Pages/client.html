@@ -1,0 +1,282 @@
+<html>
+<head>
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+        var socket = io.connect();
+        var soc_id;
+    </script>
+    <style>
+        body {
+            background-color: rgba(70, 70, 70, 0.96);
+        }
+
+        .device {
+            margin: 5px auto;
+            padding-top: 5px;
+            width: 440px;
+            background: rgba(225, 225, 225, 0.96);
+            min-height: 200px;
+        }
+
+        .block {
+            display: block;
+            margin: 4px auto;
+            padding: 5px;
+            width: 95%;
+            background-color: rgba(243, 243, 243, 0.96);
+        }
+    </style>
+</head>
+<body>
+<section class="device">
+    <div id="openConnectionDiv" class="block">
+        <h3>login</h3>
+        <input placeholder="id" id="id">
+        <input type="button" id="initConnection" value="connect" onclick="openConnection()">
+        <p><b>conntoken : </b><span id="connTokenHolder"></span></p>
+        <script>
+            function openConnection() {
+                socket.emit('initConnection', {
+                    id: document.getElementById('id').value,
+                    type: 'client'
+                })
+            }
+            socket.on('setToken', function (data) {
+                soc_id = socket.id;
+                document.getElementById('id').outerHTML = "";
+                document.getElementById('initConnection').outerHTML = "";
+                document.getElementById('connTokenHolder').innerText = data.connToken + " and sockeit id is : " + socket.id
+            });
+        </script>
+    </div>
+    <hr/>
+    <hr/>
+    <hr/>
+    <div id="newRequest" class="block">
+        <h3>update loccation for driver</h3>
+        <div id="map" style="min-height: 200px;"></div>
+        <input placeholder="recommnded place" id="rq-recommende_palce">
+        <input placeholder="amount" id="rq-amount">
+        <input placeholder="category id" id="rq-category_id">
+        <input placeholder="description" id="rq-description">
+        <input placeholder="to lat" id="rq-to-lat">
+        <input placeholder="to lang" id="rq-to-lan">
+        <input placeholder="to address" id="rq-to-address">
+        <input placeholder="from lat" id="rq-from-lat">
+        <input placeholder="from lang" id="rq-from-lan">
+        <input placeholder="from address" id="rq-from-address">
+        <input placeholder="type" id="rq-type">
+        <input placeholder="image" id="rq-image">
+        <input placeholder="custome category" id="rq-custome-cat">
+        <input placeholder="recever name" id="rq-rec-name">
+        <input placeholder="revever phone" id="rq-rec-phone">
+        <button type="button" onclick="requestOrder()">crate request</button>
+        <script>
+            function requestOrder() {
+                var opt = {
+                    recomendedPlace: document.getElementById('rq-recommende_palce').value,
+                    amount: document.getElementById('rq-amount').value,
+                    categoryId: document.getElementById('rq-category_id').value,
+                    categoryId: document.getElementById('rq-category_id').value,
+                    description: document.getElementById('rq-description').value,
+
+                    toLatitude: document.getElementById('rq-to-lat').value,
+                    toLongitude: document.getElementById('rq-to-lan').value,
+                    toAddress: document.getElementById('rq-to-address').value,
+
+                    fromLatitude: document.getElementById('rq-from-lat').value,
+                    fromLongitude: document.getElementById('rq-from-lan').value,
+                    fromAddress: document.getElementById('rq-from-address').value,
+
+                }
+            }
+        </script>
+    </div>
+    <hr/>
+    <hr/>
+    <hr/>
+    <div id="chate" class="block">
+        <button type="button" onclick="inv()">dd</button>
+    </div>
+    <div id="chate" class="block">
+        <h3>chat</h3>
+        <input placeholder="msg" id="msg"><br/>
+        <input type="button" id="" value="connect" onclick="chate()">
+        <br/>
+        <textarea></textarea>
+    </div>
+    <div id="" class="block">
+        <h3>update loccation for driver</h3>
+        <div id="map" style="min-height: 200px;"></div>
+        <input placeholder="type" id="lat">
+        <input placeholder="type" id="lng">
+
+    </div>
+    <div id="" class="block">
+        <h3>request order</h3>
+        <div id="cmap" style="min-height: 200px;"></div>
+        <input placeholder="type" id="clat">
+        <input placeholder="type" id="clng">
+
+    </div>
+</section>
+</body>
+
+<script>
+    function inv() {
+        socket.emit('dd');
+    }
+    function updatelocation() {
+        socket.emit('updateLocation', {
+            connToken: soc_id,
+            lat: document.getElementById('lat').value,
+            lng: document.getElementById('lng').value
+        })
+    }
+    function type2() {
+        socket.emit('type', document.getElementById('type2').value)
+    }
+    function requestOrder() {
+        socket.emit('requestOrder', {
+            clientId: soc_id,
+            amount: "44",
+            type: "bring",
+            description: " descrip",
+            image: " image",
+            toAddress: " to address",
+            fromAddress: " from address",
+            fromLatitude: parseFloat(document.getElementById('clat').value),
+            fromLongitude: parseFloat(document.getElementById('clng').value),
+            toLatitude: parseFloat(document.getElementById('clat').value + 1),
+            toLongitude: parseFloat(document.getElementById('clng').value + 1)
+        });
+    }
+    socket.on('tripToken', function (data) {
+        console.log(data)
+    });
+    socket.on('suggestPriceList', function (data) {
+        console.log(data)
+    });
+    socket.on('OrderAccepted', function (data) {
+        console.log('OrderAccepted')
+    });
+    socket.on('tripEnded', function (data) {
+        console.log('trip ended')
+    });
+    socket.on('tripStarted', function (data) {
+        console.log('trip accepted')
+    });
+    socket.on('noDriverFound', function (data) {
+        console.log(data)
+    });
+    socket.on('noDriverAccept', function (data) {
+        console.log('noDriverAccept')
+    });
+    socket.on('tripTimeOut', function (data) {
+        console.log('tripTimeOut')
+    });
+    socket.on('newOrderReceived', function (data) {
+        console.log('newOrderReceived')
+    })
+    socket.on('errHandel', function (data) {
+        console.log(data.message)
+        alert(JSON.stringify(data.message))
+    })
+    socket.on('messageReceived', function (data) {
+        console.log(data)
+        var old = document.getElementById('chatMessage').value;
+        document.getElementById('chatMessage').innerText = old + '\n' + data.message;
+    })
+    function chate() {
+        var msg = document.getElementById('msg').value;
+        document.getElementById('msg').value = "";
+        socket.emit('sendMessage', {
+            message: msg,
+            senderToken: 'cl1',
+            receiverToken: "dr1143"
+        })
+//        var old = document.getElementById('chatMessage').value;
+//        document.getElementById('chatMessage').innerText = old + '\n' + msg;
+    }
+
+</script>
+
+<script>
+
+    var googleMap = function (ele) {
+
+        var $this = this;
+        $this.ele = ele;
+        $this.center = {lat: 24.7206475, lng: 46.8324284};
+        var imgUrl = "CAR_30PX.png";
+        $this.map = null;
+        $this.markers = [];
+        $this.newMarker = function ($config) {
+            this.markers[$config.token] = new google.maps.Marker({
+//                        icon: imgUrl,
+                position: $config.position,
+                map: this.map, title: $config.title
+            });
+        }
+        return {
+            getPosition: function () {
+                return $this.map.getPosition();
+            },
+            clickMap: function (callback) {
+                $this.map.addListener('click', function (e) {
+                    callback(e);
+                });
+                return $this;
+            },
+            draw: function () {
+                $this.map = new google.maps.Map(document.getElementById($this.ele), {center: $this.center, zoom: 10});
+            },
+            addDriver: function ($config) {
+                $this.newMarker($config)
+                return $this;
+            },
+            changePosition: function ($config) {
+                $this.markers[$config.token].setPosition({
+                    lat: parseFloat($config.position.lat),
+                    lng: parseFloat($config.position.lng)
+                })
+                return $this;
+            },
+            changePositionLatLng: function ($config) {
+                $this.markers[$config.token].setPosition($config.position)
+                return $this;
+            },
+            getPositionForMarker: function ($token) {
+                return $this.markers[$token].getPosition();
+
+            }
+        }
+    }
+
+    //--------------------------
+
+
+    function initMap() {
+        var map = new googleMap('map');
+        map.draw();
+        map.addDriver({position: {lat: 24.7206475, lng: 46.8324284}, token: 'pos'})
+        map.clickMap(function (e) {
+            map.changePositionLatLng({position: e.latLng, token: 'pos'});
+            document.getElementById('lng').value = e.latLng.toJSON().lng;
+            document.getElementById('lat').value = e.latLng.toJSON().lat;
+            updatelocation();
+        });
+        var NewMap = new googleMap('cmap');
+        NewMap.draw();
+        NewMap.addDriver({position: {lat: 24.7206475, lng: 46.8324284}, token: 'pos'})
+        NewMap.clickMap(function (e) {
+            NewMap.changePositionLatLng({position: e.latLng, token: 'pos'});
+            document.getElementById('clng').value = e.latLng.toJSON().lng;
+            document.getElementById('clat').value = e.latLng.toJSON().lat;
+            requestOrder();
+        })
+    }
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAS5SIcUg4t0TstEiccykCQmM8NuidkHn8&callback=initMap"
+        async defer></script>
+</html>

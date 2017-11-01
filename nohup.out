@@ -1,0 +1,1235 @@
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+server start in port : 30011
+glopal
+new connection with socket id : GAZsPUv6Ma9cKCYBAAAA
+initConnection called
+{"id":"6","type":"driver"}
+{ path: '/api/driver/users/by-id/', type: 'dr' }
+dr6 add with key : GAZsPUv6Ma9cKCYBAAAA
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+glopal
+new connection with socket id : Wu6-9U7Ggdxm5yiVAAAB
+Wu6-9U7Ggdxm5yiVAAAB was logout with message transport close
+glopal
+new connection with socket id : XaakUrFnFXpwebAaAAAC
+XaakUrFnFXpwebAaAAAC was logout with message transport close
+glopal
+new connection with socket id : FqSPTPgVUTVjlDwUAAAD
+FqSPTPgVUTVjlDwUAAAD was logout with message transport close
+glopal
+new connection with socket id : EUTcPue26O-qK3DlAAAE
+glopal
+new connection with socket id : xQHEL1Ng_S1OvB4rAAAF
+initConnection called
+{"id":"6","type":"driver"}
+{ path: '/api/driver/users/by-id/', type: 'dr' }
+dr6 add with key : xQHEL1Ng_S1OvB4rAAAF
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+server start in port : 30011
+glopal
+new connection with socket id : p3Ek5YxpoIcrp5QWAAAA
+initConnection called
+{"id":"6","type":"driver"}
+{ path: '/api/driver/users/by-id/', type: 'dr' }
+dr6 add with key : p3Ek5YxpoIcrp5QWAAAA
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+glopal
+new connection with socket id : uuffuFz-XJpGYTEJAAAB
+initConnection called
+{"id":"1","type":"client"}
+{ path: '/api/client/users/by-id/', type: 'cl' }
+cl1 add with key : uuffuFz-XJpGYTEJAAAB
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+server start in port : 30011
+glopal
+new connection with socket id : 0JvQRDRQSPj8abmSAAAA
+initConnection called
+{"id":"6","type":"driver"}
+{ path: '/api/driver/users/by-id/', type: 'dr' }
+dr6 add with key : 0JvQRDRQSPj8abmSAAAA
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+glopal
+new connection with socket id : _sh6Dn8sDx9G6QxuAAAB
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+server start in port : 30011
+glopal
+new connection with socket id : scKKjMBBBNIQUJ1xAAAA
+initConnection called
+{"id":"6","type":"driver"}
+{ path: '/api/driver/users/by-id/', type: 'dr' }
+dr6 add with key : scKKjMBBBNIQUJ1xAAAA
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+glopal
+new connection with socket id : j-ZDQRYcpukccCHUAAAB
+initConnection called
+{"id":"1","type":"client"}
+{ path: '/api/client/users/by-id/', type: 'cl' }
+cl1 add with key : j-ZDQRYcpukccCHUAAAB
+glopal
+new connection with socket id : v3ynxYO5MYIW6NwCAAAC
+v3ynxYO5MYIW6NwCAAAC was logout with message transport close
+glopal
+new connection with socket id : D7HKj6I9GAZS9csZAAAD
+j-ZDQRYcpukccCHUAAAB was logout with message ping timeout
+glopal
+new connection with socket id : 9xkDas-LgvrM7d0DAAAE
+initConnection called
+{"id":"1","type":"client"}
+{ path: '/api/client/users/by-id/', type: 'cl' }
+cl1 add with key : 9xkDas-LgvrM7d0DAAAE
+D7HKj6I9GAZS9csZAAAD was logout with message transport close
+glopal
+new connection with socket id : DimnEFZYpB5fv1J2AAAF
+glopal
+new connection with socket id : ubMGXaG3x2jbAwm3AAAG
+initConnection called
+{"id":"6","type":"driver"}
+{ path: '/api/driver/users/by-id/', type: 'dr' }
+dr6 add with key : ubMGXaG3x2jbAwm3AAAG
+DimnEFZYpB5fv1J2AAAF was logout with message ping timeout
+9xkDas-LgvrM7d0DAAAE was logout with message ping timeout
+ubMGXaG3x2jbAwm3AAAG was logout with message ping timeout
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+server start in port : 30011
+glopal
+new connection with socket id : IZS_tlOd73uy7NHxAAAA
+initConnection called
+{"id":"6","type":"driver"}
+{ path: '/api/driver/users/by-id/', type: 'dr' }
+dr6 add with key : IZS_tlOd73uy7NHxAAAA
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+glopal
+new connection with socket id : DVpYvCfolNElMingAAAB
+initConnection called
+{"id":"1","type":"client"}
+{ path: '/api/client/users/by-id/', type: 'cl' }
+cl1 add with key : DVpYvCfolNElMingAAAB
+glopal
+new connection with socket id : NsYlWf7SdZFCg-pYAAAC
+initConnection called
+{"id":"26","type":"client"}
+{ path: '/api/client/users/by-id/', type: 'cl' }
+cl26 add with key : NsYlWf7SdZFCg-pYAAAC
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+{ from_latitude: 29.9648261,
+  from_longitude: 31.2476025,
+  to_latitude: 27.036958799999997,
+  to_longitude: 33.8522923,
+  from_address: 'Doblomasiean, Al Maadi, Cairo Governorate, Egypt',
+  to_address: 'Sahl Hasheesh',
+  connToken: 'cl26',
+  client_id: '26',
+  recommended_place: 1,
+  description: 'cgh',
+  amount: 555,
+  type: 'deliver',
+  image: '',
+  distance: '5 hours 14 mins',
+  receiver_phone: '555',
+  receiver_name: 'tyuu',
+  trip_type: 1,
+  car_type: 'small' }
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+{ from_latitude: 29.9648261,
+  from_longitude: 31.2476025,
+  to_latitude: 26.750017099999997,
+  to_longitude: 33.93597559999999,
+  from_address: 'Doblomasiean, Al Maadi, Cairo Governorate, Egypt',
+  to_address: 'Safaga',
+  connToken: 'cl26',
+  client_id: '26',
+  recommended_place: 1,
+  description: 'fgh',
+  amount: 555,
+  type: 'deliver',
+  image: '',
+  distance: '5 hours 38 mins',
+  receiver_phone: '555',
+  receiver_name: 'xgy',
+  trip_type: 1,
+  car_type: 'small' }
+undefined
+/home/shahinaglobal/control.shahina-global.com/nodejs1/Modules/Order.js:84
+                callback(req.data)
+                            ^
+
+TypeError: Cannot read property 'data' of undefined
+    at /home/shahinaglobal/control.shahina-global.com/nodejs1/Modules/Order.js:84:29
+    at Request._callback (/home/shahinaglobal/control.shahina-global.com/nodejs1/App/Http/Request.js:63:9)
+    at self.callback (/home/shahinaglobal/control.shahina-global.com/nodejs1/node_modules/request/request.js:188:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Request.onRequestError (/home/shahinaglobal/control.shahina-global.com/nodejs1/node_modules/request/request.js:884:8)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:188:7)
+    at Socket.socketOnEnd (_http_client.js:346:9)
+    at emitNone (events.js:91:20)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+server start in port : 30011
+glopal
+new connection with socket id : _49zCRfJH_aY1dv6AAAA
+initConnection called
+{"id":"6","type":"driver"}
+{ path: '/api/driver/users/by-id/', type: 'dr' }
+dr6 add with key : _49zCRfJH_aY1dv6AAAA
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+glopal
+new connection with socket id : bXNTf5CPmw5a3yvFAAAB
+glopal
+new connection with socket id : 2Oz1sxzgEM0Axcu0AAAC
+initConnection called
+{"id":"1","type":"client"}
+{ path: '/api/client/users/by-id/', type: 'cl' }
+cl1 add with key : 2Oz1sxzgEM0Axcu0AAAC
+initConnection called
+{"id":"6","type":"driver"}
+{ path: '/api/driver/users/by-id/', type: 'dr' }
+dr6 add with key : bXNTf5CPmw5a3yvFAAAB
+glopal
+new connection with socket id : xYmRBQ9Yj-SW2LNBAAAD
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+{ recommended_place: 0,
+  amount: '44',
+  type: 'deliver',
+  description: ' descrip',
+  image: ' image',
+  to_address: ' to address',
+  from_address: ' from address',
+  distance: 5,
+  receiver_phone: 'receiver_phone',
+  receiver_name: 'receiver_name',
+  trip_type: 'trip_type',
+  car_type: 'car_type',
+  from_latitude: 25.50371415780342,
+  from_longitude: 46.490020751953125,
+  to_latitude: 25.503714157803422,
+  to_longitude: 46.490020751953125 }
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="robots" content="noindex,nofollow" />
+        <style>
+            /* Copyright (c) 2010, Yahoo! Inc. All rights reserved. Code licensed under the BSD License: http://developer.yahoo.com/yui/license.html */
+            html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{*font-size:100%;}legend{color:#000;}
+            html { background: #eee; padding: 10px }
+            img { border: 0; }
+            #sf-resetcontent { width:970px; margin:0 auto; }
+                        .sf-reset { font: 11px Verdana, Arial, sans-serif; color: #333 }
+            .sf-reset .clear { clear:both; height:0; font-size:0; line-height:0; }
+            .sf-reset .clear_fix:after { display:block; height:0; clear:both; visibility:hidden; }
+            .sf-reset .clear_fix { display:inline-block; }
+            .sf-reset * html .clear_fix { height:1%; }
+            .sf-reset .clear_fix { display:block; }
+            .sf-reset, .sf-reset .block { margin: auto }
+            .sf-reset abbr { border-bottom: 1px dotted #000; cursor: help; }
+            .sf-reset p { font-size:14px; line-height:20px; color:#868686; padding-bottom:20px }
+            .sf-reset strong { font-weight:bold; }
+            .sf-reset a { color:#6c6159; cursor: default; }
+            .sf-reset a img { border:none; }
+            .sf-reset a:hover { text-decoration:underline; }
+            .sf-reset em { font-style:italic; }
+            .sf-reset h1, .sf-reset h2 { font: 20px Georgia, "Times New Roman", Times, serif }
+            .sf-reset .exception_counter { background-color: #fff; color: #333; padding: 6px; float: left; margin-right: 10px; float: left; display: block; }
+            .sf-reset .exception_title { margin-left: 3em; margin-bottom: 0.7em; display: block; }
+            .sf-reset .exception_message { margin-left: 3em; display: block; }
+            .sf-reset .traces li { font-size:12px; padding: 2px 4px; list-style-type:decimal; margin-left:20px; }
+            .sf-reset .block { background-color:#FFFFFF; padding:10px 28px; margin-bottom:20px;
+                -webkit-border-bottom-right-radius: 16px;
+                -webkit-border-bottom-left-radius: 16px;
+                -moz-border-radius-bottomright: 16px;
+                -moz-border-radius-bottomleft: 16px;
+                border-bottom-right-radius: 16px;
+                border-bottom-left-radius: 16px;
+                border-bottom:1px solid #ccc;
+                border-right:1px solid #ccc;
+                border-left:1px solid #ccc;
+            }
+            .sf-reset .block_exception { background-color:#ddd; color: #333; padding:20px;
+                -webkit-border-top-left-radius: 16px;
+                -webkit-border-top-right-radius: 16px;
+                -moz-border-radius-topleft: 16px;
+                -moz-border-radius-topright: 16px;
+                border-top-left-radius: 16px;
+                border-top-right-radius: 16px;
+                border-top:1px solid #ccc;
+                border-right:1px solid #ccc;
+                border-left:1px solid #ccc;
+                overflow: hidden;
+                word-wrap: break-word;
+            }
+            .sf-reset a { background:none; color:#868686; text-decoration:none; }
+            .sf-reset a:hover { background:none; color:#313131; text-decoration:underline; }
+            .sf-reset ol { padding: 10px 0; }
+            .sf-reset h1 { background-color:#FFFFFF; padding: 15px 28px; margin-bottom: 20px;
+                -webkit-border-radius: 10px;
+                -moz-border-radius: 10px;
+                border-radius: 10px;
+                border: 1px solid #ccc;
+            }
+        </style>
+    </head>
+    <body>
+                    <div id="sf-resetcontent" class="sf-reset">
+                <h1>Whoops, looks like something went wrong.</h1>
+                                        <h2 class="block_exception clear_fix">
+                            <span class="exception_counter">1/1</span>
+                            <span class="exception_title"><abbr title="ErrorException">ErrorException</abbr> in <a title="/home/shahinaglobal/control.shahina-global.com/app/Http/Controllers/Api/Client/Orders/Orders.php line 60" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Orders.php line 60</a>:</span>
+                            <span class="exception_message">Undefined index: client_id</span>
+                        </h2>
+                        <div class="block">
+                            <ol class="traces list_exception">
+       <li> in <a title="/home/shahinaglobal/control.shahina-global.com/app/Http/Controllers/Api/Client/Orders/Orders.php line 60" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Orders.php line 60</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Bootstrap\HandleExceptions">HandleExceptions</abbr>->handleError('8', 'Undefined index: client_id', '/home/shahinaglobal/control.shahina-global.com/app/Http/Controllers/Api/Client/Orders/Orders.php', '60', <em>array</em>('req' => <em>array</em>('recommended_place' => '0', 'amount' => '44', 'type' => 'deliver', 'description' => ' descrip', 'image' => ' image', 'to_address' => ' to address', 'from_address' => ' from address', 'distance' => '5', 'receiver_phone' => 'receiver_phone', 'receiver_name' => 'receiver_name', 'trip_type' => 'trip_type', 'car_type' => 'car_type', 'from_latitude' => '25.50371415780342', 'from_longitude' => '46.490020751953125', 'to_latitude' => '25.503714157803422', 'to_longitude' => '46.490020751953125'), 'data' => <em>array</em>('car_type' => 'car_type', 'recommended_place_id' => '0', 'amount' => '44', 'description' => ' descrip', 'to_latitude' => '25.503714157803422', 'to_longitude' => '46.490020751953125', 'to_address' => ' to address', 'from_latitude' => '25.50371415780342', 'from_longitude' => '46.490020751953125', 'from_address' => ' from address', 'trip_type' => 'trip_type', 'image' => ' image'))) in <a title="/home/shahinaglobal/control.shahina-global.com/app/Http/Controllers/Api/Client/Orders/Orders.php line 60" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Orders.php line 60</a></li>
+       <li>at <abbr title="App\Http\Controllers\Api\Client\Orders\Orders">Orders</abbr>->anyCreateOrder()</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="App\Http\Controllers\Api\Client\Orders\Orders">Orders</abbr>), 'anyCreateOrder'), <em>array</em>()) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php line 80" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Controller.php line 80</a></li>
+       <li>at <abbr title="Illuminate\Routing\Controller">Controller</abbr>->callAction('anyCreateOrder', <em>array</em>()) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php line 146" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">ControllerDispatcher.php line 146</a></li>
+       <li>at <abbr title="Illuminate\Routing\ControllerDispatcher">ControllerDispatcher</abbr>->call(<em>object</em>(<abbr title="App\Http\Controllers\Api\Client\Orders\Orders">Orders</abbr>), <em>object</em>(<abbr title="Illuminate\Routing\Route">Route</abbr>), 'anyCreateOrder') in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php line 94" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">ControllerDispatcher.php line 94</a></li>
+       <li>at <abbr title="Illuminate\Routing\ControllerDispatcher">ControllerDispatcher</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 52" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 52</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 102" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 102</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->then(<em>object</em>(<abbr title="Closure">Closure</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php line 96" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">ControllerDispatcher.php line 96</a></li>
+       <li>at <abbr title="Illuminate\Routing\ControllerDispatcher">ControllerDispatcher</abbr>->callWithinStack(<em>object</em>(<abbr title="App\Http\Controllers\Api\Client\Orders\Orders">Orders</abbr>), <em>object</em>(<abbr title="Illuminate\Routing\Route">Route</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), 'anyCreateOrder') in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php line 54" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">ControllerDispatcher.php line 54</a></li>
+       <li>at <abbr title="Illuminate\Routing\ControllerDispatcher">ControllerDispatcher</abbr>->dispatch(<em>object</em>(<abbr title="Illuminate\Routing\Route">Route</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), 'App\Http\Controllers\Api\Client\Orders\Orders', 'anyCreateOrder') in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php line 174" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Route.php line 174</a></li>
+       <li>at <abbr title="Illuminate\Routing\Route">Route</abbr>->runController(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php line 140" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Route.php line 140</a></li>
+       <li>at <abbr title="Illuminate\Routing\Route">Route</abbr>->run(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php line 724" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Router.php line 724</a></li>
+       <li>at <abbr title="Illuminate\Routing\Router">Router</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 52" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 52</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php line 64" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">VerifyCsrfToken.php line 64</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Http\Middleware\VerifyCsrfToken">VerifyCsrfToken</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="App\Http\Middleware\VerifyCsrfToken">VerifyCsrfToken</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php line 49" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">ShareErrorsFromSession.php line 49</a></li>
+       <li>at <abbr title="Illuminate\View\Middleware\ShareErrorsFromSession">ShareErrorsFromSession</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="Illuminate\View\Middleware\ShareErrorsFromSession">ShareErrorsFromSession</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php line 64" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">StartSession.php line 64</a></li>
+       <li>at <abbr title="Illuminate\Session\Middleware\StartSession">StartSession</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="Illuminate\Session\Middleware\StartSession">StartSession</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php line 37" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">AddQueuedCookiesToResponse.php line 37</a></li>
+       <li>at <abbr title="Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse">AddQueuedCookiesToResponse</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse">AddQueuedCookiesToResponse</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php line 59" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">EncryptCookies.php line 59</a></li>
+       <li>at <abbr title="Illuminate\Cookie\Middleware\EncryptCookies">EncryptCookies</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="App\Http\Middleware\EncryptCookies">EncryptCookies</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 102" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 102</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->then(<em>object</em>(<abbr title="Closure">Closure</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php line 726" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Router.php line 726</a></li>
+       <li>at <abbr title="Illuminate\Routing\Router">Router</abbr>->runRouteWithinStack(<em>object</em>(<abbr title="Illuminate\Routing\Route">Route</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php line 699" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Router.php line 699</a></li>
+       <li>at <abbr title="Illuminate\Routing\Router">Router</abbr>->dispatchToRoute(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php line 675" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Router.php line 675</a></li>
+       <li>at <abbr title="Illuminate\Routing\Router">Router</abbr>->dispatch(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php line 246" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Kernel.php line 246</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Http\Kernel">Kernel</abbr>->Illuminate\Foundation\Http\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 52" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 52</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php line 44" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">CheckForMaintenanceMode.php line 44</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode">CheckForMaintenanceMode</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode">CheckForMaintenanceMode</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 102" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 102</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->then(<em>object</em>(<abbr title="Closure">Closure</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php line 132" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Kernel.php line 132</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Http\Kernel">Kernel</abbr>->sendRequestThroughRouter(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php line 99" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Kernel.php line 99</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Http\Kernel">Kernel</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/public/index.php line 53" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">index.php line 53</a></li>
+       <li>at <abbr title=""></abbr>require_once('/home/shahinaglobal/control.shahina-global.com/public/index.php') in <a title="/home/shahinaglobal/control.shahina-global.com/index.php line 191" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">index.php line 191</a></li>
+    </ol>
+</div>
+
+            </div>
+    </body>
+</html>
+request from client token : undefined
+TypeError: Cannot read property 'type' of undefined
+    at Object.exports.get (/home/shahinaglobal/control.shahina-global.com/nodejs1/Helper/Collection.js:30:32)
+    at InitModule._this.initData (/home/shahinaglobal/control.shahina-global.com/nodejs1/IO/Client/RequestOrder.js:163:34)
+    at /home/shahinaglobal/control.shahina-global.com/nodejs1/IO/Client/RequestOrder.js:65:38
+    at /home/shahinaglobal/control.shahina-global.com/nodejs1/Modules/Order.js:84:17
+    at Request._callback (/home/shahinaglobal/control.shahina-global.com/nodejs1/App/Http/Request.js:63:9)
+    at Request.self.callback (/home/shahinaglobal/control.shahina-global.com/nodejs1/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:106:13)
+    at Request.emit (events.js:191:7)
+    at Request.<anonymous> (/home/shahinaglobal/control.shahina-global.com/nodejs1/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:96:13)
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+{ recommended_place: 0,
+  amount: '44',
+  type: 'deliver',
+  description: ' descrip',
+  image: ' image',
+  to_address: ' to address',
+  from_address: ' from address',
+  distance: 5,
+  receiver_phone: 'receiver_phone',
+  receiver_name: 'receiver_name',
+  trip_type: 'trip_type',
+  car_type: 'car_type',
+  from_latitude: 25.467764036722894,
+  from_longitude: 46.505126953125,
+  to_latitude: 25.467764036722894,
+  to_longitude: 46.5051269531251 }
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="robots" content="noindex,nofollow" />
+        <style>
+            /* Copyright (c) 2010, Yahoo! Inc. All rights reserved. Code licensed under the BSD License: http://developer.yahoo.com/yui/license.html */
+            html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{*font-size:100%;}legend{color:#000;}
+            html { background: #eee; padding: 10px }
+            img { border: 0; }
+            #sf-resetcontent { width:970px; margin:0 auto; }
+                        .sf-reset { font: 11px Verdana, Arial, sans-serif; color: #333 }
+            .sf-reset .clear { clear:both; height:0; font-size:0; line-height:0; }
+            .sf-reset .clear_fix:after { display:block; height:0; clear:both; visibility:hidden; }
+            .sf-reset .clear_fix { display:inline-block; }
+            .sf-reset * html .clear_fix { height:1%; }
+            .sf-reset .clear_fix { display:block; }
+            .sf-reset, .sf-reset .block { margin: auto }
+            .sf-reset abbr { border-bottom: 1px dotted #000; cursor: help; }
+            .sf-reset p { font-size:14px; line-height:20px; color:#868686; padding-bottom:20px }
+            .sf-reset strong { font-weight:bold; }
+            .sf-reset a { color:#6c6159; cursor: default; }
+            .sf-reset a img { border:none; }
+            .sf-reset a:hover { text-decoration:underline; }
+            .sf-reset em { font-style:italic; }
+            .sf-reset h1, .sf-reset h2 { font: 20px Georgia, "Times New Roman", Times, serif }
+            .sf-reset .exception_counter { background-color: #fff; color: #333; padding: 6px; float: left; margin-right: 10px; float: left; display: block; }
+            .sf-reset .exception_title { margin-left: 3em; margin-bottom: 0.7em; display: block; }
+            .sf-reset .exception_message { margin-left: 3em; display: block; }
+            .sf-reset .traces li { font-size:12px; padding: 2px 4px; list-style-type:decimal; margin-left:20px; }
+            .sf-reset .block { background-color:#FFFFFF; padding:10px 28px; margin-bottom:20px;
+                -webkit-border-bottom-right-radius: 16px;
+                -webkit-border-bottom-left-radius: 16px;
+                -moz-border-radius-bottomright: 16px;
+                -moz-border-radius-bottomleft: 16px;
+                border-bottom-right-radius: 16px;
+                border-bottom-left-radius: 16px;
+                border-bottom:1px solid #ccc;
+                border-right:1px solid #ccc;
+                border-left:1px solid #ccc;
+            }
+            .sf-reset .block_exception { background-color:#ddd; color: #333; padding:20px;
+                -webkit-border-top-left-radius: 16px;
+                -webkit-border-top-right-radius: 16px;
+                -moz-border-radius-topleft: 16px;
+                -moz-border-radius-topright: 16px;
+                border-top-left-radius: 16px;
+                border-top-right-radius: 16px;
+                border-top:1px solid #ccc;
+                border-right:1px solid #ccc;
+                border-left:1px solid #ccc;
+                overflow: hidden;
+                word-wrap: break-word;
+            }
+            .sf-reset a { background:none; color:#868686; text-decoration:none; }
+            .sf-reset a:hover { background:none; color:#313131; text-decoration:underline; }
+            .sf-reset ol { padding: 10px 0; }
+            .sf-reset h1 { background-color:#FFFFFF; padding: 15px 28px; margin-bottom: 20px;
+                -webkit-border-radius: 10px;
+                -moz-border-radius: 10px;
+                border-radius: 10px;
+                border: 1px solid #ccc;
+            }
+        </style>
+    </head>
+    <body>
+                    <div id="sf-resetcontent" class="sf-reset">
+                <h1>Whoops, looks like something went wrong.</h1>
+                                        <h2 class="block_exception clear_fix">
+                            <span class="exception_counter">1/1</span>
+                            <span class="exception_title"><abbr title="ErrorException">ErrorException</abbr> in <a title="/home/shahinaglobal/control.shahina-global.com/app/Http/Controllers/Api/Client/Orders/Orders.php line 60" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Orders.php line 60</a>:</span>
+                            <span class="exception_message">Undefined index: client_id</span>
+                        </h2>
+                        <div class="block">
+                            <ol class="traces list_exception">
+       <li> in <a title="/home/shahinaglobal/control.shahina-global.com/app/Http/Controllers/Api/Client/Orders/Orders.php line 60" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Orders.php line 60</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Bootstrap\HandleExceptions">HandleExceptions</abbr>->handleError('8', 'Undefined index: client_id', '/home/shahinaglobal/control.shahina-global.com/app/Http/Controllers/Api/Client/Orders/Orders.php', '60', <em>array</em>('req' => <em>array</em>('recommended_place' => '0', 'amount' => '44', 'type' => 'deliver', 'description' => ' descrip', 'image' => ' image', 'to_address' => ' to address', 'from_address' => ' from address', 'distance' => '5', 'receiver_phone' => 'receiver_phone', 'receiver_name' => 'receiver_name', 'trip_type' => 'trip_type', 'car_type' => 'car_type', 'from_latitude' => '25.467764036722894', 'from_longitude' => '46.505126953125', 'to_latitude' => '25.467764036722894', 'to_longitude' => '46.5051269531251'), 'data' => <em>array</em>('car_type' => 'car_type', 'recommended_place_id' => '0', 'amount' => '44', 'description' => ' descrip', 'to_latitude' => '25.467764036722894', 'to_longitude' => '46.5051269531251', 'to_address' => ' to address', 'from_latitude' => '25.467764036722894', 'from_longitude' => '46.505126953125', 'from_address' => ' from address', 'trip_type' => 'trip_type', 'image' => ' image'))) in <a title="/home/shahinaglobal/control.shahina-global.com/app/Http/Controllers/Api/Client/Orders/Orders.php line 60" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Orders.php line 60</a></li>
+       <li>at <abbr title="App\Http\Controllers\Api\Client\Orders\Orders">Orders</abbr>->anyCreateOrder()</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="App\Http\Controllers\Api\Client\Orders\Orders">Orders</abbr>), 'anyCreateOrder'), <em>array</em>()) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php line 80" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Controller.php line 80</a></li>
+       <li>at <abbr title="Illuminate\Routing\Controller">Controller</abbr>->callAction('anyCreateOrder', <em>array</em>()) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php line 146" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">ControllerDispatcher.php line 146</a></li>
+       <li>at <abbr title="Illuminate\Routing\ControllerDispatcher">ControllerDispatcher</abbr>->call(<em>object</em>(<abbr title="App\Http\Controllers\Api\Client\Orders\Orders">Orders</abbr>), <em>object</em>(<abbr title="Illuminate\Routing\Route">Route</abbr>), 'anyCreateOrder') in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php line 94" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">ControllerDispatcher.php line 94</a></li>
+       <li>at <abbr title="Illuminate\Routing\ControllerDispatcher">ControllerDispatcher</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 52" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 52</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 102" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 102</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->then(<em>object</em>(<abbr title="Closure">Closure</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php line 96" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">ControllerDispatcher.php line 96</a></li>
+       <li>at <abbr title="Illuminate\Routing\ControllerDispatcher">ControllerDispatcher</abbr>->callWithinStack(<em>object</em>(<abbr title="App\Http\Controllers\Api\Client\Orders\Orders">Orders</abbr>), <em>object</em>(<abbr title="Illuminate\Routing\Route">Route</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), 'anyCreateOrder') in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php line 54" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">ControllerDispatcher.php line 54</a></li>
+       <li>at <abbr title="Illuminate\Routing\ControllerDispatcher">ControllerDispatcher</abbr>->dispatch(<em>object</em>(<abbr title="Illuminate\Routing\Route">Route</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), 'App\Http\Controllers\Api\Client\Orders\Orders', 'anyCreateOrder') in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php line 174" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Route.php line 174</a></li>
+       <li>at <abbr title="Illuminate\Routing\Route">Route</abbr>->runController(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php line 140" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Route.php line 140</a></li>
+       <li>at <abbr title="Illuminate\Routing\Route">Route</abbr>->run(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php line 724" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Router.php line 724</a></li>
+       <li>at <abbr title="Illuminate\Routing\Router">Router</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 52" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 52</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php line 64" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">VerifyCsrfToken.php line 64</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Http\Middleware\VerifyCsrfToken">VerifyCsrfToken</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="App\Http\Middleware\VerifyCsrfToken">VerifyCsrfToken</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php line 49" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">ShareErrorsFromSession.php line 49</a></li>
+       <li>at <abbr title="Illuminate\View\Middleware\ShareErrorsFromSession">ShareErrorsFromSession</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="Illuminate\View\Middleware\ShareErrorsFromSession">ShareErrorsFromSession</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php line 64" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">StartSession.php line 64</a></li>
+       <li>at <abbr title="Illuminate\Session\Middleware\StartSession">StartSession</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="Illuminate\Session\Middleware\StartSession">StartSession</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php line 37" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">AddQueuedCookiesToResponse.php line 37</a></li>
+       <li>at <abbr title="Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse">AddQueuedCookiesToResponse</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse">AddQueuedCookiesToResponse</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php line 59" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">EncryptCookies.php line 59</a></li>
+       <li>at <abbr title="Illuminate\Cookie\Middleware\EncryptCookies">EncryptCookies</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="App\Http\Middleware\EncryptCookies">EncryptCookies</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 102" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 102</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->then(<em>object</em>(<abbr title="Closure">Closure</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php line 726" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Router.php line 726</a></li>
+       <li>at <abbr title="Illuminate\Routing\Router">Router</abbr>->runRouteWithinStack(<em>object</em>(<abbr title="Illuminate\Routing\Route">Route</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php line 699" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Router.php line 699</a></li>
+       <li>at <abbr title="Illuminate\Routing\Router">Router</abbr>->dispatchToRoute(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php line 675" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Router.php line 675</a></li>
+       <li>at <abbr title="Illuminate\Routing\Router">Router</abbr>->dispatch(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php line 246" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Kernel.php line 246</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Http\Kernel">Kernel</abbr>->Illuminate\Foundation\Http\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 52" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 52</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php line 44" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">CheckForMaintenanceMode.php line 44</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode">CheckForMaintenanceMode</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode">CheckForMaintenanceMode</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 102" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 102</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->then(<em>object</em>(<abbr title="Closure">Closure</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php line 132" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Kernel.php line 132</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Http\Kernel">Kernel</abbr>->sendRequestThroughRouter(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php line 99" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Kernel.php line 99</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Http\Kernel">Kernel</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/public/index.php line 53" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">index.php line 53</a></li>
+       <li>at <abbr title=""></abbr>require_once('/home/shahinaglobal/control.shahina-global.com/public/index.php') in <a title="/home/shahinaglobal/control.shahina-global.com/index.php line 191" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">index.php line 191</a></li>
+    </ol>
+</div>
+
+            </div>
+    </body>
+</html>
+request from client token : undefined
+TypeError: Cannot read property 'type' of undefined
+    at Object.exports.get (/home/shahinaglobal/control.shahina-global.com/nodejs1/Helper/Collection.js:30:32)
+    at InitModule._this.initData (/home/shahinaglobal/control.shahina-global.com/nodejs1/IO/Client/RequestOrder.js:163:34)
+    at /home/shahinaglobal/control.shahina-global.com/nodejs1/IO/Client/RequestOrder.js:65:38
+    at /home/shahinaglobal/control.shahina-global.com/nodejs1/Modules/Order.js:84:17
+    at Request._callback (/home/shahinaglobal/control.shahina-global.com/nodejs1/App/Http/Request.js:63:9)
+    at Request.self.callback (/home/shahinaglobal/control.shahina-global.com/nodejs1/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:106:13)
+    at Request.emit (events.js:191:7)
+    at Request.<anonymous> (/home/shahinaglobal/control.shahina-global.com/nodejs1/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:96:13)
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+{ recommended_place: 0,
+  amount: '44',
+  type: 'deliver',
+  description: ' descrip',
+  image: ' image',
+  to_address: ' to address',
+  from_address: ' from address',
+  distance: 5,
+  receiver_phone: 'receiver_phone',
+  receiver_name: 'receiver_name',
+  trip_type: 'trip_type',
+  car_type: 'car_type',
+  from_latitude: 25.408236778682344,
+  from_longitude: 46.413116455078125,
+  to_latitude: 25.408236778682344,
+  to_longitude: 46.413116455078125 }
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="robots" content="noindex,nofollow" />
+        <style>
+            /* Copyright (c) 2010, Yahoo! Inc. All rights reserved. Code licensed under the BSD License: http://developer.yahoo.com/yui/license.html */
+            html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{*font-size:100%;}legend{color:#000;}
+            html { background: #eee; padding: 10px }
+            img { border: 0; }
+            #sf-resetcontent { width:970px; margin:0 auto; }
+                        .sf-reset { font: 11px Verdana, Arial, sans-serif; color: #333 }
+            .sf-reset .clear { clear:both; height:0; font-size:0; line-height:0; }
+            .sf-reset .clear_fix:after { display:block; height:0; clear:both; visibility:hidden; }
+            .sf-reset .clear_fix { display:inline-block; }
+            .sf-reset * html .clear_fix { height:1%; }
+            .sf-reset .clear_fix { display:block; }
+            .sf-reset, .sf-reset .block { margin: auto }
+            .sf-reset abbr { border-bottom: 1px dotted #000; cursor: help; }
+            .sf-reset p { font-size:14px; line-height:20px; color:#868686; padding-bottom:20px }
+            .sf-reset strong { font-weight:bold; }
+            .sf-reset a { color:#6c6159; cursor: default; }
+            .sf-reset a img { border:none; }
+            .sf-reset a:hover { text-decoration:underline; }
+            .sf-reset em { font-style:italic; }
+            .sf-reset h1, .sf-reset h2 { font: 20px Georgia, "Times New Roman", Times, serif }
+            .sf-reset .exception_counter { background-color: #fff; color: #333; padding: 6px; float: left; margin-right: 10px; float: left; display: block; }
+            .sf-reset .exception_title { margin-left: 3em; margin-bottom: 0.7em; display: block; }
+            .sf-reset .exception_message { margin-left: 3em; display: block; }
+            .sf-reset .traces li { font-size:12px; padding: 2px 4px; list-style-type:decimal; margin-left:20px; }
+            .sf-reset .block { background-color:#FFFFFF; padding:10px 28px; margin-bottom:20px;
+                -webkit-border-bottom-right-radius: 16px;
+                -webkit-border-bottom-left-radius: 16px;
+                -moz-border-radius-bottomright: 16px;
+                -moz-border-radius-bottomleft: 16px;
+                border-bottom-right-radius: 16px;
+                border-bottom-left-radius: 16px;
+                border-bottom:1px solid #ccc;
+                border-right:1px solid #ccc;
+                border-left:1px solid #ccc;
+            }
+            .sf-reset .block_exception { background-color:#ddd; color: #333; padding:20px;
+                -webkit-border-top-left-radius: 16px;
+                -webkit-border-top-right-radius: 16px;
+                -moz-border-radius-topleft: 16px;
+                -moz-border-radius-topright: 16px;
+                border-top-left-radius: 16px;
+                border-top-right-radius: 16px;
+                border-top:1px solid #ccc;
+                border-right:1px solid #ccc;
+                border-left:1px solid #ccc;
+                overflow: hidden;
+                word-wrap: break-word;
+            }
+            .sf-reset a { background:none; color:#868686; text-decoration:none; }
+            .sf-reset a:hover { background:none; color:#313131; text-decoration:underline; }
+            .sf-reset ol { padding: 10px 0; }
+            .sf-reset h1 { background-color:#FFFFFF; padding: 15px 28px; margin-bottom: 20px;
+                -webkit-border-radius: 10px;
+                -moz-border-radius: 10px;
+                border-radius: 10px;
+                border: 1px solid #ccc;
+            }
+        </style>
+    </head>
+    <body>
+                    <div id="sf-resetcontent" class="sf-reset">
+                <h1>Whoops, looks like something went wrong.</h1>
+                                        <h2 class="block_exception clear_fix">
+                            <span class="exception_counter">1/1</span>
+                            <span class="exception_title"><abbr title="ErrorException">ErrorException</abbr> in <a title="/home/shahinaglobal/control.shahina-global.com/app/Http/Controllers/Api/Client/Orders/Orders.php line 60" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Orders.php line 60</a>:</span>
+                            <span class="exception_message">Undefined index: client_id</span>
+                        </h2>
+                        <div class="block">
+                            <ol class="traces list_exception">
+       <li> in <a title="/home/shahinaglobal/control.shahina-global.com/app/Http/Controllers/Api/Client/Orders/Orders.php line 60" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Orders.php line 60</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Bootstrap\HandleExceptions">HandleExceptions</abbr>->handleError('8', 'Undefined index: client_id', '/home/shahinaglobal/control.shahina-global.com/app/Http/Controllers/Api/Client/Orders/Orders.php', '60', <em>array</em>('req' => <em>array</em>('recommended_place' => '0', 'amount' => '44', 'type' => 'deliver', 'description' => ' descrip', 'image' => ' image', 'to_address' => ' to address', 'from_address' => ' from address', 'distance' => '5', 'receiver_phone' => 'receiver_phone', 'receiver_name' => 'receiver_name', 'trip_type' => 'trip_type', 'car_type' => 'car_type', 'from_latitude' => '25.408236778682344', 'from_longitude' => '46.413116455078125', 'to_latitude' => '25.408236778682344', 'to_longitude' => '46.413116455078125'), 'data' => <em>array</em>('car_type' => 'car_type', 'recommended_place_id' => '0', 'amount' => '44', 'description' => ' descrip', 'to_latitude' => '25.408236778682344', 'to_longitude' => '46.413116455078125', 'to_address' => ' to address', 'from_latitude' => '25.408236778682344', 'from_longitude' => '46.413116455078125', 'from_address' => ' from address', 'trip_type' => 'trip_type', 'image' => ' image'))) in <a title="/home/shahinaglobal/control.shahina-global.com/app/Http/Controllers/Api/Client/Orders/Orders.php line 60" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Orders.php line 60</a></li>
+       <li>at <abbr title="App\Http\Controllers\Api\Client\Orders\Orders">Orders</abbr>->anyCreateOrder()</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="App\Http\Controllers\Api\Client\Orders\Orders">Orders</abbr>), 'anyCreateOrder'), <em>array</em>()) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php line 80" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Controller.php line 80</a></li>
+       <li>at <abbr title="Illuminate\Routing\Controller">Controller</abbr>->callAction('anyCreateOrder', <em>array</em>()) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php line 146" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">ControllerDispatcher.php line 146</a></li>
+       <li>at <abbr title="Illuminate\Routing\ControllerDispatcher">ControllerDispatcher</abbr>->call(<em>object</em>(<abbr title="App\Http\Controllers\Api\Client\Orders\Orders">Orders</abbr>), <em>object</em>(<abbr title="Illuminate\Routing\Route">Route</abbr>), 'anyCreateOrder') in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php line 94" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">ControllerDispatcher.php line 94</a></li>
+       <li>at <abbr title="Illuminate\Routing\ControllerDispatcher">ControllerDispatcher</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 52" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 52</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 102" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 102</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->then(<em>object</em>(<abbr title="Closure">Closure</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php line 96" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">ControllerDispatcher.php line 96</a></li>
+       <li>at <abbr title="Illuminate\Routing\ControllerDispatcher">ControllerDispatcher</abbr>->callWithinStack(<em>object</em>(<abbr title="App\Http\Controllers\Api\Client\Orders\Orders">Orders</abbr>), <em>object</em>(<abbr title="Illuminate\Routing\Route">Route</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), 'anyCreateOrder') in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php line 54" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">ControllerDispatcher.php line 54</a></li>
+       <li>at <abbr title="Illuminate\Routing\ControllerDispatcher">ControllerDispatcher</abbr>->dispatch(<em>object</em>(<abbr title="Illuminate\Routing\Route">Route</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), 'App\Http\Controllers\Api\Client\Orders\Orders', 'anyCreateOrder') in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php line 174" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Route.php line 174</a></li>
+       <li>at <abbr title="Illuminate\Routing\Route">Route</abbr>->runController(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php line 140" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Route.php line 140</a></li>
+       <li>at <abbr title="Illuminate\Routing\Route">Route</abbr>->run(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php line 724" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Router.php line 724</a></li>
+       <li>at <abbr title="Illuminate\Routing\Router">Router</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 52" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 52</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php line 64" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">VerifyCsrfToken.php line 64</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Http\Middleware\VerifyCsrfToken">VerifyCsrfToken</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="App\Http\Middleware\VerifyCsrfToken">VerifyCsrfToken</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php line 49" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">ShareErrorsFromSession.php line 49</a></li>
+       <li>at <abbr title="Illuminate\View\Middleware\ShareErrorsFromSession">ShareErrorsFromSession</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="Illuminate\View\Middleware\ShareErrorsFromSession">ShareErrorsFromSession</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php line 64" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">StartSession.php line 64</a></li>
+       <li>at <abbr title="Illuminate\Session\Middleware\StartSession">StartSession</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="Illuminate\Session\Middleware\StartSession">StartSession</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php line 37" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">AddQueuedCookiesToResponse.php line 37</a></li>
+       <li>at <abbr title="Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse">AddQueuedCookiesToResponse</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse">AddQueuedCookiesToResponse</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php line 59" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">EncryptCookies.php line 59</a></li>
+       <li>at <abbr title="Illuminate\Cookie\Middleware\EncryptCookies">EncryptCookies</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="App\Http\Middleware\EncryptCookies">EncryptCookies</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 102" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 102</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->then(<em>object</em>(<abbr title="Closure">Closure</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php line 726" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Router.php line 726</a></li>
+       <li>at <abbr title="Illuminate\Routing\Router">Router</abbr>->runRouteWithinStack(<em>object</em>(<abbr title="Illuminate\Routing\Route">Route</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php line 699" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Router.php line 699</a></li>
+       <li>at <abbr title="Illuminate\Routing\Router">Router</abbr>->dispatchToRoute(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php line 675" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Router.php line 675</a></li>
+       <li>at <abbr title="Illuminate\Routing\Router">Router</abbr>->dispatch(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php line 246" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Kernel.php line 246</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Http\Kernel">Kernel</abbr>->Illuminate\Foundation\Http\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 52" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 52</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php line 44" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">CheckForMaintenanceMode.php line 44</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode">CheckForMaintenanceMode</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode">CheckForMaintenanceMode</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 102" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 102</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->then(<em>object</em>(<abbr title="Closure">Closure</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php line 132" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Kernel.php line 132</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Http\Kernel">Kernel</abbr>->sendRequestThroughRouter(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php line 99" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Kernel.php line 99</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Http\Kernel">Kernel</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/public/index.php line 53" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">index.php line 53</a></li>
+       <li>at <abbr title=""></abbr>require_once('/home/shahinaglobal/control.shahina-global.com/public/index.php') in <a title="/home/shahinaglobal/control.shahina-global.com/index.php line 191" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">index.php line 191</a></li>
+    </ol>
+</div>
+
+            </div>
+    </body>
+</html>
+request from client token : undefined
+TypeError: Cannot read property 'type' of undefined
+    at Object.exports.get (/home/shahinaglobal/control.shahina-global.com/nodejs1/Helper/Collection.js:30:32)
+    at InitModule._this.initData (/home/shahinaglobal/control.shahina-global.com/nodejs1/IO/Client/RequestOrder.js:163:34)
+    at /home/shahinaglobal/control.shahina-global.com/nodejs1/IO/Client/RequestOrder.js:65:38
+    at /home/shahinaglobal/control.shahina-global.com/nodejs1/Modules/Order.js:84:17
+    at Request._callback (/home/shahinaglobal/control.shahina-global.com/nodejs1/App/Http/Request.js:63:9)
+    at Request.self.callback (/home/shahinaglobal/control.shahina-global.com/nodejs1/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:106:13)
+    at Request.emit (events.js:191:7)
+    at Request.<anonymous> (/home/shahinaglobal/control.shahina-global.com/nodejs1/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:96:13)
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+{ recommended_place: 0,
+  amount: '44',
+  type: 'deliver',
+  description: ' descrip',
+  image: ' image',
+  to_address: ' to address',
+  from_address: ' from address',
+  distance: 5,
+  receiver_phone: 'receiver_phone',
+  receiver_name: 'receiver_name',
+  trip_type: 'trip_type',
+  car_type: 'car_type',
+  from_latitude: 25.5297402892055,
+  from_longitude: 46.457061767578125,
+  to_latitude: 25.52974028920551,
+  to_longitude: 46.457061767578125 }
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="robots" content="noindex,nofollow" />
+        <style>
+            /* Copyright (c) 2010, Yahoo! Inc. All rights reserved. Code licensed under the BSD License: http://developer.yahoo.com/yui/license.html */
+            html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{*font-size:100%;}legend{color:#000;}
+            html { background: #eee; padding: 10px }
+            img { border: 0; }
+            #sf-resetcontent { width:970px; margin:0 auto; }
+                        .sf-reset { font: 11px Verdana, Arial, sans-serif; color: #333 }
+            .sf-reset .clear { clear:both; height:0; font-size:0; line-height:0; }
+            .sf-reset .clear_fix:after { display:block; height:0; clear:both; visibility:hidden; }
+            .sf-reset .clear_fix { display:inline-block; }
+            .sf-reset * html .clear_fix { height:1%; }
+            .sf-reset .clear_fix { display:block; }
+            .sf-reset, .sf-reset .block { margin: auto }
+            .sf-reset abbr { border-bottom: 1px dotted #000; cursor: help; }
+            .sf-reset p { font-size:14px; line-height:20px; color:#868686; padding-bottom:20px }
+            .sf-reset strong { font-weight:bold; }
+            .sf-reset a { color:#6c6159; cursor: default; }
+            .sf-reset a img { border:none; }
+            .sf-reset a:hover { text-decoration:underline; }
+            .sf-reset em { font-style:italic; }
+            .sf-reset h1, .sf-reset h2 { font: 20px Georgia, "Times New Roman", Times, serif }
+            .sf-reset .exception_counter { background-color: #fff; color: #333; padding: 6px; float: left; margin-right: 10px; float: left; display: block; }
+            .sf-reset .exception_title { margin-left: 3em; margin-bottom: 0.7em; display: block; }
+            .sf-reset .exception_message { margin-left: 3em; display: block; }
+            .sf-reset .traces li { font-size:12px; padding: 2px 4px; list-style-type:decimal; margin-left:20px; }
+            .sf-reset .block { background-color:#FFFFFF; padding:10px 28px; margin-bottom:20px;
+                -webkit-border-bottom-right-radius: 16px;
+                -webkit-border-bottom-left-radius: 16px;
+                -moz-border-radius-bottomright: 16px;
+                -moz-border-radius-bottomleft: 16px;
+                border-bottom-right-radius: 16px;
+                border-bottom-left-radius: 16px;
+                border-bottom:1px solid #ccc;
+                border-right:1px solid #ccc;
+                border-left:1px solid #ccc;
+            }
+            .sf-reset .block_exception { background-color:#ddd; color: #333; padding:20px;
+                -webkit-border-top-left-radius: 16px;
+                -webkit-border-top-right-radius: 16px;
+                -moz-border-radius-topleft: 16px;
+                -moz-border-radius-topright: 16px;
+                border-top-left-radius: 16px;
+                border-top-right-radius: 16px;
+                border-top:1px solid #ccc;
+                border-right:1px solid #ccc;
+                border-left:1px solid #ccc;
+                overflow: hidden;
+                word-wrap: break-word;
+            }
+            .sf-reset a { background:none; color:#868686; text-decoration:none; }
+            .sf-reset a:hover { background:none; color:#313131; text-decoration:underline; }
+            .sf-reset ol { padding: 10px 0; }
+            .sf-reset h1 { background-color:#FFFFFF; padding: 15px 28px; margin-bottom: 20px;
+                -webkit-border-radius: 10px;
+                -moz-border-radius: 10px;
+                border-radius: 10px;
+                border: 1px solid #ccc;
+            }
+        </style>
+    </head>
+    <body>
+                    <div id="sf-resetcontent" class="sf-reset">
+                <h1>Whoops, looks like something went wrong.</h1>
+                                        <h2 class="block_exception clear_fix">
+                            <span class="exception_counter">1/1</span>
+                            <span class="exception_title"><abbr title="ErrorException">ErrorException</abbr> in <a title="/home/shahinaglobal/control.shahina-global.com/app/Http/Controllers/Api/Client/Orders/Orders.php line 60" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Orders.php line 60</a>:</span>
+                            <span class="exception_message">Undefined index: client_id</span>
+                        </h2>
+                        <div class="block">
+                            <ol class="traces list_exception">
+       <li> in <a title="/home/shahinaglobal/control.shahina-global.com/app/Http/Controllers/Api/Client/Orders/Orders.php line 60" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Orders.php line 60</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Bootstrap\HandleExceptions">HandleExceptions</abbr>->handleError('8', 'Undefined index: client_id', '/home/shahinaglobal/control.shahina-global.com/app/Http/Controllers/Api/Client/Orders/Orders.php', '60', <em>array</em>('req' => <em>array</em>('recommended_place' => '0', 'amount' => '44', 'type' => 'deliver', 'description' => ' descrip', 'image' => ' image', 'to_address' => ' to address', 'from_address' => ' from address', 'distance' => '5', 'receiver_phone' => 'receiver_phone', 'receiver_name' => 'receiver_name', 'trip_type' => 'trip_type', 'car_type' => 'car_type', 'from_latitude' => '25.5297402892055', 'from_longitude' => '46.457061767578125', 'to_latitude' => '25.52974028920551', 'to_longitude' => '46.457061767578125'), 'data' => <em>array</em>('car_type' => 'car_type', 'recommended_place_id' => '0', 'amount' => '44', 'description' => ' descrip', 'to_latitude' => '25.52974028920551', 'to_longitude' => '46.457061767578125', 'to_address' => ' to address', 'from_latitude' => '25.5297402892055', 'from_longitude' => '46.457061767578125', 'from_address' => ' from address', 'trip_type' => 'trip_type', 'image' => ' image'))) in <a title="/home/shahinaglobal/control.shahina-global.com/app/Http/Controllers/Api/Client/Orders/Orders.php line 60" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Orders.php line 60</a></li>
+       <li>at <abbr title="App\Http\Controllers\Api\Client\Orders\Orders">Orders</abbr>->anyCreateOrder()</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="App\Http\Controllers\Api\Client\Orders\Orders">Orders</abbr>), 'anyCreateOrder'), <em>array</em>()) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php line 80" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Controller.php line 80</a></li>
+       <li>at <abbr title="Illuminate\Routing\Controller">Controller</abbr>->callAction('anyCreateOrder', <em>array</em>()) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php line 146" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">ControllerDispatcher.php line 146</a></li>
+       <li>at <abbr title="Illuminate\Routing\ControllerDispatcher">ControllerDispatcher</abbr>->call(<em>object</em>(<abbr title="App\Http\Controllers\Api\Client\Orders\Orders">Orders</abbr>), <em>object</em>(<abbr title="Illuminate\Routing\Route">Route</abbr>), 'anyCreateOrder') in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php line 94" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">ControllerDispatcher.php line 94</a></li>
+       <li>at <abbr title="Illuminate\Routing\ControllerDispatcher">ControllerDispatcher</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 52" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 52</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 102" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 102</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->then(<em>object</em>(<abbr title="Closure">Closure</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php line 96" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">ControllerDispatcher.php line 96</a></li>
+       <li>at <abbr title="Illuminate\Routing\ControllerDispatcher">ControllerDispatcher</abbr>->callWithinStack(<em>object</em>(<abbr title="App\Http\Controllers\Api\Client\Orders\Orders">Orders</abbr>), <em>object</em>(<abbr title="Illuminate\Routing\Route">Route</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), 'anyCreateOrder') in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php line 54" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">ControllerDispatcher.php line 54</a></li>
+       <li>at <abbr title="Illuminate\Routing\ControllerDispatcher">ControllerDispatcher</abbr>->dispatch(<em>object</em>(<abbr title="Illuminate\Routing\Route">Route</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), 'App\Http\Controllers\Api\Client\Orders\Orders', 'anyCreateOrder') in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php line 174" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Route.php line 174</a></li>
+       <li>at <abbr title="Illuminate\Routing\Route">Route</abbr>->runController(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php line 140" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Route.php line 140</a></li>
+       <li>at <abbr title="Illuminate\Routing\Route">Route</abbr>->run(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php line 724" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Router.php line 724</a></li>
+       <li>at <abbr title="Illuminate\Routing\Router">Router</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 52" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 52</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php line 64" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">VerifyCsrfToken.php line 64</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Http\Middleware\VerifyCsrfToken">VerifyCsrfToken</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="App\Http\Middleware\VerifyCsrfToken">VerifyCsrfToken</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php line 49" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">ShareErrorsFromSession.php line 49</a></li>
+       <li>at <abbr title="Illuminate\View\Middleware\ShareErrorsFromSession">ShareErrorsFromSession</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="Illuminate\View\Middleware\ShareErrorsFromSession">ShareErrorsFromSession</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php line 64" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">StartSession.php line 64</a></li>
+       <li>at <abbr title="Illuminate\Session\Middleware\StartSession">StartSession</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="Illuminate\Session\Middleware\StartSession">StartSession</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php line 37" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">AddQueuedCookiesToResponse.php line 37</a></li>
+       <li>at <abbr title="Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse">AddQueuedCookiesToResponse</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse">AddQueuedCookiesToResponse</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php line 59" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">EncryptCookies.php line 59</a></li>
+       <li>at <abbr title="Illuminate\Cookie\Middleware\EncryptCookies">EncryptCookies</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="App\Http\Middleware\EncryptCookies">EncryptCookies</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 102" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 102</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->then(<em>object</em>(<abbr title="Closure">Closure</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php line 726" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Router.php line 726</a></li>
+       <li>at <abbr title="Illuminate\Routing\Router">Router</abbr>->runRouteWithinStack(<em>object</em>(<abbr title="Illuminate\Routing\Route">Route</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php line 699" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Router.php line 699</a></li>
+       <li>at <abbr title="Illuminate\Routing\Router">Router</abbr>->dispatchToRoute(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php line 675" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Router.php line 675</a></li>
+       <li>at <abbr title="Illuminate\Routing\Router">Router</abbr>->dispatch(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php line 246" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Kernel.php line 246</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Http\Kernel">Kernel</abbr>->Illuminate\Foundation\Http\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 52" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 52</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php line 44" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">CheckForMaintenanceMode.php line 44</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode">CheckForMaintenanceMode</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode">CheckForMaintenanceMode</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 102" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 102</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->then(<em>object</em>(<abbr title="Closure">Closure</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php line 132" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Kernel.php line 132</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Http\Kernel">Kernel</abbr>->sendRequestThroughRouter(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php line 99" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Kernel.php line 99</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Http\Kernel">Kernel</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/public/index.php line 53" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">index.php line 53</a></li>
+       <li>at <abbr title=""></abbr>require_once('/home/shahinaglobal/control.shahina-global.com/public/index.php') in <a title="/home/shahinaglobal/control.shahina-global.com/index.php line 191" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">index.php line 191</a></li>
+    </ol>
+</div>
+
+            </div>
+    </body>
+</html>
+request from client token : undefined
+TypeError: Cannot read property 'type' of undefined
+    at Object.exports.get (/home/shahinaglobal/control.shahina-global.com/nodejs1/Helper/Collection.js:30:32)
+    at InitModule._this.initData (/home/shahinaglobal/control.shahina-global.com/nodejs1/IO/Client/RequestOrder.js:163:34)
+    at /home/shahinaglobal/control.shahina-global.com/nodejs1/IO/Client/RequestOrder.js:65:38
+    at /home/shahinaglobal/control.shahina-global.com/nodejs1/Modules/Order.js:84:17
+    at Request._callback (/home/shahinaglobal/control.shahina-global.com/nodejs1/App/Http/Request.js:63:9)
+    at Request.self.callback (/home/shahinaglobal/control.shahina-global.com/nodejs1/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:106:13)
+    at Request.emit (events.js:191:7)
+    at Request.<anonymous> (/home/shahinaglobal/control.shahina-global.com/nodejs1/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:96:13)
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+22222222222222222222222222
+{ recommended_place: 0,
+  amount: '44',
+  type: 'deliver',
+  description: ' descrip',
+  image: ' image',
+  to_address: ' to address',
+  from_address: ' from address',
+  distance: 5,
+  receiver_phone: 'receiver_phone',
+  receiver_name: 'receiver_name',
+  trip_type: 'trip_type',
+  car_type: 'car_type',
+  from_latitude: 25.583014273078653,
+  from_longitude: 46.528472900390625,
+  to_latitude: 25.583014273078653,
+  to_longitude: 46.528472900390625 }
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="robots" content="noindex,nofollow" />
+        <style>
+            /* Copyright (c) 2010, Yahoo! Inc. All rights reserved. Code licensed under the BSD License: http://developer.yahoo.com/yui/license.html */
+            html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{*font-size:100%;}legend{color:#000;}
+            html { background: #eee; padding: 10px }
+            img { border: 0; }
+            #sf-resetcontent { width:970px; margin:0 auto; }
+                        .sf-reset { font: 11px Verdana, Arial, sans-serif; color: #333 }
+            .sf-reset .clear { clear:both; height:0; font-size:0; line-height:0; }
+            .sf-reset .clear_fix:after { display:block; height:0; clear:both; visibility:hidden; }
+            .sf-reset .clear_fix { display:inline-block; }
+            .sf-reset * html .clear_fix { height:1%; }
+            .sf-reset .clear_fix { display:block; }
+            .sf-reset, .sf-reset .block { margin: auto }
+            .sf-reset abbr { border-bottom: 1px dotted #000; cursor: help; }
+            .sf-reset p { font-size:14px; line-height:20px; color:#868686; padding-bottom:20px }
+            .sf-reset strong { font-weight:bold; }
+            .sf-reset a { color:#6c6159; cursor: default; }
+            .sf-reset a img { border:none; }
+            .sf-reset a:hover { text-decoration:underline; }
+            .sf-reset em { font-style:italic; }
+            .sf-reset h1, .sf-reset h2 { font: 20px Georgia, "Times New Roman", Times, serif }
+            .sf-reset .exception_counter { background-color: #fff; color: #333; padding: 6px; float: left; margin-right: 10px; float: left; display: block; }
+            .sf-reset .exception_title { margin-left: 3em; margin-bottom: 0.7em; display: block; }
+            .sf-reset .exception_message { margin-left: 3em; display: block; }
+            .sf-reset .traces li { font-size:12px; padding: 2px 4px; list-style-type:decimal; margin-left:20px; }
+            .sf-reset .block { background-color:#FFFFFF; padding:10px 28px; margin-bottom:20px;
+                -webkit-border-bottom-right-radius: 16px;
+                -webkit-border-bottom-left-radius: 16px;
+                -moz-border-radius-bottomright: 16px;
+                -moz-border-radius-bottomleft: 16px;
+                border-bottom-right-radius: 16px;
+                border-bottom-left-radius: 16px;
+                border-bottom:1px solid #ccc;
+                border-right:1px solid #ccc;
+                border-left:1px solid #ccc;
+            }
+            .sf-reset .block_exception { background-color:#ddd; color: #333; padding:20px;
+                -webkit-border-top-left-radius: 16px;
+                -webkit-border-top-right-radius: 16px;
+                -moz-border-radius-topleft: 16px;
+                -moz-border-radius-topright: 16px;
+                border-top-left-radius: 16px;
+                border-top-right-radius: 16px;
+                border-top:1px solid #ccc;
+                border-right:1px solid #ccc;
+                border-left:1px solid #ccc;
+                overflow: hidden;
+                word-wrap: break-word;
+            }
+            .sf-reset a { background:none; color:#868686; text-decoration:none; }
+            .sf-reset a:hover { background:none; color:#313131; text-decoration:underline; }
+            .sf-reset ol { padding: 10px 0; }
+            .sf-reset h1 { background-color:#FFFFFF; padding: 15px 28px; margin-bottom: 20px;
+                -webkit-border-radius: 10px;
+                -moz-border-radius: 10px;
+                border-radius: 10px;
+                border: 1px solid #ccc;
+            }
+        </style>
+    </head>
+    <body>
+                    <div id="sf-resetcontent" class="sf-reset">
+                <h1>Whoops, looks like something went wrong.</h1>
+                                        <h2 class="block_exception clear_fix">
+                            <span class="exception_counter">1/1</span>
+                            <span class="exception_title"><abbr title="ErrorException">ErrorException</abbr> in <a title="/home/shahinaglobal/control.shahina-global.com/app/Http/Controllers/Api/Client/Orders/Orders.php line 60" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Orders.php line 60</a>:</span>
+                            <span class="exception_message">Undefined index: client_id</span>
+                        </h2>
+                        <div class="block">
+                            <ol class="traces list_exception">
+       <li> in <a title="/home/shahinaglobal/control.shahina-global.com/app/Http/Controllers/Api/Client/Orders/Orders.php line 60" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Orders.php line 60</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Bootstrap\HandleExceptions">HandleExceptions</abbr>->handleError('8', 'Undefined index: client_id', '/home/shahinaglobal/control.shahina-global.com/app/Http/Controllers/Api/Client/Orders/Orders.php', '60', <em>array</em>('req' => <em>array</em>('recommended_place' => '0', 'amount' => '44', 'type' => 'deliver', 'description' => ' descrip', 'image' => ' image', 'to_address' => ' to address', 'from_address' => ' from address', 'distance' => '5', 'receiver_phone' => 'receiver_phone', 'receiver_name' => 'receiver_name', 'trip_type' => 'trip_type', 'car_type' => 'car_type', 'from_latitude' => '25.583014273078653', 'from_longitude' => '46.528472900390625', 'to_latitude' => '25.583014273078653', 'to_longitude' => '46.528472900390625'), 'data' => <em>array</em>('car_type' => 'car_type', 'recommended_place_id' => '0', 'amount' => '44', 'description' => ' descrip', 'to_latitude' => '25.583014273078653', 'to_longitude' => '46.528472900390625', 'to_address' => ' to address', 'from_latitude' => '25.583014273078653', 'from_longitude' => '46.528472900390625', 'from_address' => ' from address', 'trip_type' => 'trip_type', 'image' => ' image'))) in <a title="/home/shahinaglobal/control.shahina-global.com/app/Http/Controllers/Api/Client/Orders/Orders.php line 60" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Orders.php line 60</a></li>
+       <li>at <abbr title="App\Http\Controllers\Api\Client\Orders\Orders">Orders</abbr>->anyCreateOrder()</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="App\Http\Controllers\Api\Client\Orders\Orders">Orders</abbr>), 'anyCreateOrder'), <em>array</em>()) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php line 80" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Controller.php line 80</a></li>
+       <li>at <abbr title="Illuminate\Routing\Controller">Controller</abbr>->callAction('anyCreateOrder', <em>array</em>()) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php line 146" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">ControllerDispatcher.php line 146</a></li>
+       <li>at <abbr title="Illuminate\Routing\ControllerDispatcher">ControllerDispatcher</abbr>->call(<em>object</em>(<abbr title="App\Http\Controllers\Api\Client\Orders\Orders">Orders</abbr>), <em>object</em>(<abbr title="Illuminate\Routing\Route">Route</abbr>), 'anyCreateOrder') in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php line 94" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">ControllerDispatcher.php line 94</a></li>
+       <li>at <abbr title="Illuminate\Routing\ControllerDispatcher">ControllerDispatcher</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 52" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 52</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 102" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 102</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->then(<em>object</em>(<abbr title="Closure">Closure</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php line 96" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">ControllerDispatcher.php line 96</a></li>
+       <li>at <abbr title="Illuminate\Routing\ControllerDispatcher">ControllerDispatcher</abbr>->callWithinStack(<em>object</em>(<abbr title="App\Http\Controllers\Api\Client\Orders\Orders">Orders</abbr>), <em>object</em>(<abbr title="Illuminate\Routing\Route">Route</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), 'anyCreateOrder') in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php line 54" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">ControllerDispatcher.php line 54</a></li>
+       <li>at <abbr title="Illuminate\Routing\ControllerDispatcher">ControllerDispatcher</abbr>->dispatch(<em>object</em>(<abbr title="Illuminate\Routing\Route">Route</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), 'App\Http\Controllers\Api\Client\Orders\Orders', 'anyCreateOrder') in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php line 174" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Route.php line 174</a></li>
+       <li>at <abbr title="Illuminate\Routing\Route">Route</abbr>->runController(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php line 140" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Route.php line 140</a></li>
+       <li>at <abbr title="Illuminate\Routing\Route">Route</abbr>->run(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php line 724" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Router.php line 724</a></li>
+       <li>at <abbr title="Illuminate\Routing\Router">Router</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 52" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 52</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php line 64" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">VerifyCsrfToken.php line 64</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Http\Middleware\VerifyCsrfToken">VerifyCsrfToken</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="App\Http\Middleware\VerifyCsrfToken">VerifyCsrfToken</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php line 49" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">ShareErrorsFromSession.php line 49</a></li>
+       <li>at <abbr title="Illuminate\View\Middleware\ShareErrorsFromSession">ShareErrorsFromSession</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="Illuminate\View\Middleware\ShareErrorsFromSession">ShareErrorsFromSession</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php line 64" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">StartSession.php line 64</a></li>
+       <li>at <abbr title="Illuminate\Session\Middleware\StartSession">StartSession</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="Illuminate\Session\Middleware\StartSession">StartSession</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php line 37" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">AddQueuedCookiesToResponse.php line 37</a></li>
+       <li>at <abbr title="Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse">AddQueuedCookiesToResponse</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse">AddQueuedCookiesToResponse</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php line 59" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">EncryptCookies.php line 59</a></li>
+       <li>at <abbr title="Illuminate\Cookie\Middleware\EncryptCookies">EncryptCookies</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="App\Http\Middleware\EncryptCookies">EncryptCookies</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 102" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 102</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->then(<em>object</em>(<abbr title="Closure">Closure</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php line 726" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Router.php line 726</a></li>
+       <li>at <abbr title="Illuminate\Routing\Router">Router</abbr>->runRouteWithinStack(<em>object</em>(<abbr title="Illuminate\Routing\Route">Route</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php line 699" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Router.php line 699</a></li>
+       <li>at <abbr title="Illuminate\Routing\Router">Router</abbr>->dispatchToRoute(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php line 675" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Router.php line 675</a></li>
+       <li>at <abbr title="Illuminate\Routing\Router">Router</abbr>->dispatch(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php line 246" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Kernel.php line 246</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Http\Kernel">Kernel</abbr>->Illuminate\Foundation\Http\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 52" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 52</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php line 44" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">CheckForMaintenanceMode.php line 44</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode">CheckForMaintenanceMode</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func_array(<em>array</em>(<em>object</em>(<abbr title="Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode">CheckForMaintenanceMode</abbr>), 'handle'), <em>array</em>(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>), <em>object</em>(<abbr title="Closure">Closure</abbr>))) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 136" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 136</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->Illuminate\Pipeline\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php line 32" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 32</a></li>
+       <li>at <abbr title="Illuminate\Routing\Pipeline">Pipeline</abbr>->Illuminate\Routing\{closure}(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>object</em>(<abbr title="Closure">Closure</abbr>), <em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php line 102" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Pipeline.php line 102</a></li>
+       <li>at <abbr title="Illuminate\Pipeline\Pipeline">Pipeline</abbr>->then(<em>object</em>(<abbr title="Closure">Closure</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php line 132" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Kernel.php line 132</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Http\Kernel">Kernel</abbr>->sendRequestThroughRouter(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php line 99" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">Kernel.php line 99</a></li>
+       <li>at <abbr title="Illuminate\Foundation\Http\Kernel">Kernel</abbr>->handle(<em>object</em>(<abbr title="Illuminate\Http\Request">Request</abbr>)) in <a title="/home/shahinaglobal/control.shahina-global.com/public/index.php line 53" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">index.php line 53</a></li>
+       <li>at <abbr title=""></abbr>require_once('/home/shahinaglobal/control.shahina-global.com/public/index.php') in <a title="/home/shahinaglobal/control.shahina-global.com/index.php line 191" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;">index.php line 191</a></li>
+    </ol>
+</div>
+
+            </div>
+    </body>
+</html>
+request from client token : undefined
+TypeError: Cannot read property 'type' of undefined
+    at Object.exports.get (/home/shahinaglobal/control.shahina-global.com/nodejs1/Helper/Collection.js:30:32)
+    at InitModule._this.initData (/home/shahinaglobal/control.shahina-global.com/nodejs1/IO/Client/RequestOrder.js:163:34)
+    at /home/shahinaglobal/control.shahina-global.com/nodejs1/IO/Client/RequestOrder.js:65:38
+    at /home/shahinaglobal/control.shahina-global.com/nodejs1/Modules/Order.js:84:17
+    at Request._callback (/home/shahinaglobal/control.shahina-global.com/nodejs1/App/Http/Request.js:63:9)
+    at Request.self.callback (/home/shahinaglobal/control.shahina-global.com/nodejs1/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:106:13)
+    at Request.emit (events.js:191:7)
+    at Request.<anonymous> (/home/shahinaglobal/control.shahina-global.com/nodejs1/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:96:13)
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+glopal
+new connection with socket id : f00XxqJSnAVLUyhnAAAE
+2Oz1sxzgEM0Axcu0AAAC was logout with message ping timeout
+bXNTf5CPmw5a3yvFAAAB was logout with message ping timeout
+xYmRBQ9Yj-SW2LNBAAAD was logout with message ping timeout
+f00XxqJSnAVLUyhnAAAE was logout with message transport close
+glopal
+new connection with socket id : wdt70FFU2W7RuJlhAAAF
+glopal
+new connection with socket id : jlhx4iDq9P9Pq-4EAAAG
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+wdt70FFU2W7RuJlhAAAF was logout with message ping timeout
+jlhx4iDq9P9Pq-4EAAAG was logout with message ping timeout
+glopal
+new connection with socket id : 7W1SJsIMr8xN2eqeAAAH
+glopal
+new connection with socket id : ni91HTcbpS8TaCbXAAAI
+ni91HTcbpS8TaCbXAAAI was logout with message transport close
+glopal
+new connection with socket id : e6--3-ayhXwyEJonAAAJ
+e6--3-ayhXwyEJonAAAJ was logout with message transport close
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+updateLocation
+7W1SJsIMr8xN2eqeAAAH was logout with message ping timeout

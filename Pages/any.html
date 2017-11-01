@@ -1,0 +1,337 @@
+<html>
+<head>
+    <script src="/socket.io/socket.io.js"></script>
+    <style>
+        body {
+            background-color: rgba(70, 70, 70, 0.96);
+        }
+
+        .device {
+            margin: 5px auto;
+            padding-top: 5px;
+            width: 440px;
+            background: rgba(225, 225, 225, 0.96);
+            min-height: 200px;
+        }
+
+        .block {
+            display: block;
+            margin: 4px auto;
+            padding: 5px;
+            width: 95%;
+            background-color: rgba(243, 243, 243, 0.96);
+        }
+    </style>
+</head>
+<body>
+<section class="device">
+    <div id="chate" class="block">
+        <h3>chat</h3>
+        <input placeholder="msg" id="msg"><br/>
+        <input type="button" value="connect" onclick="chate()">
+        <br/>
+        <textarea></textarea>
+    </div>
+    <div class="block">
+        <input type="text" id="tripToken">
+        <input type="button" value="send suggest" onclick="suggestPrice()">
+    </div>
+    <div class="block">
+        <input type="text" id="acceptOrder">
+        <input type="button" value="acceptOrder" onclick="acceptOrder()">
+    </div>
+    <div class="block">
+        <input type="text" id="selectSuggested">
+        <input type="button" value="selectSuggested" onclick="selectSuggested()">
+    </div>
+    <div class="block">
+        <input type="text" id="startTrip">
+        <input type="button" value="startTrip" onclick="startTrip()">
+    </div>
+    <div class="block">
+        <input type="text" id="cancelTrip">
+        <input type="button" value="cancelTrip" onclick="cancelTrip()">
+    </div>
+    <div class="block">
+        <input type="text" id="endTrip">
+        <input type="button" value="endTrip" onclick="endTrip()">
+    </div>
+    <div class="block">
+        <input type="text" id="getDriversTrips">
+        <input type="button" value="getDriversTrips" onclick="getDriversTrips()">
+    </div>
+    <div class="block">
+        <input type="text" id="getDrivers">
+        <input type="button" value="getDrivers" onclick="getDrivers()">
+    </div>
+
+
+    <div id="openConnectionDiv" class="block">
+        <h3>login</h3>
+        <input placeholder="id" id="id">
+        <input placeholder="type" id="type">
+        <input type="button" id="initConnection" value="connect" onclick="openConnection()">
+    </div>
+    <div class="block">
+        <h3>update loccation for driver</h3>
+        <div id="map" style="min-height: 200px;"></div>
+        <input placeholder="type" id="lat">
+        <input placeholder="type" id="lng">
+
+    </div>
+    <div class="block">
+        <h3>request order</h3>
+        <div id="cmap" style="min-height: 200px;"></div>
+        <input placeholder="type" id="clat">
+        <input placeholder="type" id="clng">
+
+    </div>
+</section>
+</body>
+
+<script>
+    var socket = io.connect();
+    var soc_id;
+
+    function openConnection() {
+        socket.emit('initConnection', {
+            id: document.getElementById('id').value,
+            type: document.getElementById('type').value
+        })
+    }
+
+    function updatelocation() {
+        socket.emit('updateLocation', {
+            connToken: soc_id,
+            lat: document.getElementById('lat').value,
+            lng: document.getElementById('lng').value
+        });
+    }
+
+    function type2() {
+        socket.emit('type', document.getElementById('type2').value)
+    }
+
+    function requestOrder() {
+        socket.emit('requestOrder', {
+            client_id: soc_id,
+            recommended_place: 0,
+            connToken: soc_id,
+            amount: "44",
+            type: "deliver",
+            description: " descrip",
+            image: " image",
+            to_address: " to address",
+            from_address: " from address",
+            distance: 5,
+            receiver_phone: "receiver_phone",
+            receiver_name: "receiver_name",
+            trip_type: "trip_type",
+            car_type: "car_type",
+            from_latitude: parseFloat(document.getElementById('clat').value),
+            from_longitude: parseFloat(document.getElementById('clng').value),
+            to_latitude: parseFloat(document.getElementById('clat').value + 1),
+            to_longitude: parseFloat(document.getElementById('clng').value + 1)
+        });
+    }
+
+    socket.on('setToken', function (data) {
+        soc_id = data.connToken;
+        console.log("setToken: " + data.connToken)
+        console.log("soketId: " + socket.id)
+    });
+    socket.on('tripToken', function (data) {
+        console.log("tripToken: " + JSON.stringify(data));
+    });
+
+    function suggestPrice() {
+        socket.emit('suggestPrice', {
+            connToken: "dr6",
+            orderId: document.getElementById('tripToken').value,
+            amount: 50
+        });
+    }
+
+    function acceptOrder() {
+        socket.emit('acceptOrder', {
+            connToken: "dr6",
+            orderId: document.getElementById('acceptOrder').value,
+        });
+    }
+
+    function startTrip() {
+        socket.emit('startTrip', {
+            connToken: "dr6",
+            orderId: document.getElementById('startTrip').value,
+        });
+    }
+
+    function selectSuggested() {
+        socket.emit('selectSuggestedPrice', {
+            connToken: "cl1",
+            driverConnToken: "dr6",
+            orderId: document.getElementById('selectSuggested').value,
+        });
+    }
+
+    function cancelTrip() {
+        socket.emit('cancelTrip', {
+            driverToken: "dr6",
+            orderId: document.getElementById('cancelTrip').value,
+        });
+    }
+
+    function endTrip() {
+        socket.emit('endTrip', {
+            driverToken: "dr6",
+            orderId: document.getElementById('endTrip').value,
+        });
+    }
+    function getDriversTrips() {
+        socket.emit('getDriversTrips');
+    }
+    function getDrivers() {
+        console.log('getDrivers');
+        socket.emit('getDrivers');
+    }
+    
+    socket.on('driversDetails', function (data) {
+        console.log('driversDetails', data)
+    });
+
+    socket.on('driversWithTrips', function (data) {
+        console.log('driversWithTrips', data)
+    });
+    socket.on('suggestPriceList', function (data) {
+        console.log(data)
+    });
+    socket.on('OrderAccepted', function (data) {
+        console.log('OrderAccepted')
+    });
+    socket.on('tripEnded', function (data) {
+        console.log('trip ended')
+    });
+    socket.on('tripStarted', function (data) {
+        console.log('trip accepted')
+    });
+    socket.on('noDriverFound', function (data) {
+        console.log(data)
+    });
+    socket.on('noDriverAccept', function (data) {
+        console.log('noDriverAccept')
+    });
+    socket.on('tripTimeOut', function (data) {
+        console.log('tripTimeOut')
+    });
+    socket.on('newOrderReceived', function (data) {
+        console.log('newOrderReceived',data);
+    })
+    socket.on('suggestionAccepted', function (data) {
+        console.log('suggestionAccepted', data)
+    })
+    socket.on('errHandel', function (data) {
+        console.log(data.message)
+        alert(JSON.stringify(data.message))
+    })
+    socket.on('messageReceived', function (data) {
+        console.log(data)
+        var old = document.getElementById('chatMessage').value;
+        document.getElementById('chatMessage').innerText = old + '\n' + data.message;
+    });
+    socket.on('clientCancelTrip', function (data) {
+        console.log("clientCancelTrip", data)
+    })
+
+    function chate() {
+        var msg = document.getElementById('msg').value;
+        document.getElementById('msg').value = "";
+        socket.emit('sendMessage', {
+            message: msg,
+            senderToken: 'cl1',
+            receiverToken: "dr1143"
+        })
+//        var old = document.getElementById('chatMessage').value;
+//        document.getElementById('chatMessage').innerText = old + '\n' + msg;
+    }
+
+</script>
+
+<script>
+
+    var googleMap = function (ele) {
+
+        var $this = this;
+        $this.ele = ele;
+        $this.center = {lat: 24.7206475, lng: 46.8324284};
+        var imgUrl = "CAR_30PX.png";
+        $this.map = null;
+        $this.markers = [];
+        $this.newMarker = function ($config) {
+            this.markers[$config.token] = new google.maps.Marker({
+//                        icon: imgUrl,
+                position: $config.position,
+                map: this.map, title: $config.title
+            });
+        }
+        return {
+            getPosition: function () {
+                return $this.map.getPosition();
+            },
+            clickMap: function (callback) {
+                $this.map.addListener('click', function (e) {
+                    callback(e);
+                });
+                return $this;
+            },
+            draw: function () {
+                $this.map = new google.maps.Map(document.getElementById($this.ele), {center: $this.center, zoom: 10});
+            },
+            addDriver: function ($config) {
+                $this.newMarker($config)
+                return $this;
+            },
+            changePosition: function ($config) {
+                $this.markers[$config.token].setPosition({
+                    lat: parseFloat($config.position.lat),
+                    lng: parseFloat($config.position.lng)
+                })
+                return $this;
+            },
+            changePositionLatLng: function ($config) {
+                $this.markers[$config.token].setPosition($config.position)
+                return $this;
+            },
+            getPositionForMarker: function ($token) {
+                return $this.markers[$token].getPosition();
+
+            }
+        }
+    }
+
+    //--------------------------
+
+
+    function initMap() {
+        var map = new googleMap('map');
+        map.draw();
+        map.addDriver({position: {lat: 24.7206475, lng: 46.8324284}, token: 'pos'})
+        map.clickMap(function (e) {
+            map.changePositionLatLng({position: e.latLng, token: 'pos'});
+            document.getElementById('lng').value = e.latLng.toJSON().lng;
+            document.getElementById('lat').value = e.latLng.toJSON().lat;
+            updatelocation();
+        });
+        var NewMap = new googleMap('cmap');
+        NewMap.draw();
+        NewMap.addDriver({position: {lat: 24.7206475, lng: 46.8324284}, token: 'pos'})
+        NewMap.clickMap(function (e) {
+            NewMap.changePositionLatLng({position: e.latLng, token: 'pos'});
+            document.getElementById('clng').value = e.latLng.toJSON().lng;
+            document.getElementById('clat').value = e.latLng.toJSON().lat;
+            requestOrder();
+        })
+    }
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAS5SIcUg4t0TstEiccykCQmM8NuidkHn8&callback=initMap"
+        async defer></script>
+</html>
