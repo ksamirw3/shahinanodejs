@@ -20438,3 +20438,23 @@ info    :2017-11-04 19:28:57:accept order start
 info    :2017-11-04 19:28:57:client request : MUjHOki5XMRQRf7YAAAD
 Error   :2017-11-04 19:29:53:NWx2_6_XSkjzHJdxAAAB was logout with message ping timeout
 Error   :2017-11-04 19:29:53:HLF9Cr5e_rbn8GjxAAAC was logout with message ping timeout
+Error   :2017-11-04 19:31:13:MUjHOki5XMRQRf7YAAAD was logout with message transport close
+info    :2017-11-04 21:23:32:dr6 add with key : RkzPs3Gar-rxn_n6AAAE
+info    :2017-11-04 21:24:13:driver on trip token (ej3kRZ4xEWYgID5q) and with driver (RkzPs3Gar-rxn_n6AAAE)
+Error   :2017-11-04 21:45:52:EKyxTo_7Kqc8DdaIAAAA was logout with message transport close
+Error   :2017-11-04 21:46:01:Cannot read property 'type' of undefined
+info    :2017-11-04 21:46:16:dr6 add with key : PP8YHzXisWckZgKgAAAB
+info    :2017-11-04 21:51:30:dr6 add with key : U0OwrkqMsmtbu34hAAAA
+Error   :2017-11-04 21:51:45:request from client token : dr6
+info    :2017-11-04 21:51:45: emit new order receved to driver : U0OwrkqMsmtbu34hAAAA
+info    :2017-11-04 21:52:15:set time out for trip token  : sx4EGA0/myfVlKj/
+Error   :2017-11-04 21:54:33:2UdKLXMntBd4OPL5AAAA was logout with message transport close
+info    :2017-11-04 21:54:43:dr6 add with key : qoAl2R3zxJE-8nYlAAAB
+Error   :2017-11-04 21:54:48:request from client token : dr6
+info    :2017-11-04 21:54:48: emit new order receved to driver : qoAl2R3zxJE-8nYlAAAB
+Error   :2017-11-04 21:54:52:qoAl2R3zxJE-8nYlAAAB was logout with message transport close
+info    :2017-11-04 21:55:03:dr6 add with key : OERLsIzbv73QYO7nAAAC
+Error   :2017-11-04 21:55:08:request from client token : dr6
+info    :2017-11-04 21:55:08: emit new order receved to driver : OERLsIzbv73QYO7nAAAC
+info    :2017-11-04 21:55:18:set time out for trip token  : AadQ/lQcUQ0a0Wvs
+info    :2017-11-04 21:55:38:set time out for trip token  : 5MeQpcuRe1iDQOeV

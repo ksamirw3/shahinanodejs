@@ -206,6 +206,7 @@ var InitModule = function (App, socket) {
          */
 
         var drivers = App.MDB.allDrivers();
+       
 
         /*
          * driver list
@@ -230,7 +231,8 @@ var InitModule = function (App, socket) {
          *
          *
          */
-        console.log("drivers", drivers);
+        console.log("drivers.........", drivers);
+        
         for (var driver_id in drivers) {
             if (drivers.hasOwnProperty(driver_id)) {
                 var driver = drivers[driver_id];
