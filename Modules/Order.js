@@ -78,6 +78,14 @@ exports.init = function (Cons, http) {
          * @param err
          */
         saveToDB: function (ordeData, callback, err) {
+            
+            if(ordeData.client_id && ordeData.client_id.indexOf("dr")){
+                ordeData.client_id = ordeData.client_id.substring(2);
+            }
+            
+            console.log("saveToDB ordeData >>> ", ordeData);
+            
+            
             var opt = {
                 host: _this.host,
                 path: Cons.urls.client.createOrder,
