@@ -248,6 +248,8 @@ var InitModule = function (App, socket) {
                             if (App.calc.calculateDistance(fromPonit, endPoint).distance() <= (App.cons.destLimit * 1000)) {
                                 App.log.info(" emit new order receved to driver : " + driver.socketId)
                                 // send time of start
+                                console.log(".............................................",);
+                                console.log("newOrderReceived fired.........", sendData);
                                 App.IO.to(driver.socketId).emit('newOrderReceived', sendData);
                                 receivedList.push(driver.socketId);
                                 driverCount++;
