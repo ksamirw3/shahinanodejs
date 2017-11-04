@@ -81,7 +81,6 @@ exports.init = function (Cons, http) {
             var opt = {
                 host: _this.host,
                 path: Cons.urls.client.createOrder,
-                port: 8081,
                 data: /*_this.makeDataObject(*/ordeData/*)*/,
             }
 
