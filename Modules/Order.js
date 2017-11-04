@@ -1,5 +1,6 @@
 exports.init = function (Cons, http) {
     var _this = this;
+    var request = require('request');
 
     /*
      *
@@ -42,13 +43,17 @@ exports.init = function (Cons, http) {
 
 
     _this.updateTrip = function (orderId, key, val, suc, err) {
-        console.log(Cons.urls.driver.updateDriverId + "?order_id=" + orderId + "&val=" + val + "&key=" + key);
+        console.log('updateTrip >>> ', Cons.urls.driver.updateDriverId + "?order_id=" + orderId + "&val=" + val + "&key=" + key);
         var opt = {
             host: _this.host,
             path: Cons.urls.driver.updateDriverId + "?order_id=" + orderId + "&val=" + val + "&key=" + key,
         }
 
+        console.log('opt >>> ', opt);
+
         http.get(opt, function (res) {
+            console.log('updateTrip  get >>> ', res);
+
             if (suc != undefined)
                 suc(res);
         }), function (e) {
@@ -57,7 +62,7 @@ exports.init = function (Cons, http) {
     }
 
     return {
-        updateAmount: function (orderToken, amount,callback,err) {
+        updateAmount: function (orderToken, amount, callback, err) {
             _this.updateTrip(orderToken.substring(3), 'amount', amount, function (res) {
                 if (callback != undefined)
                     callback(res)
@@ -76,17 +81,36 @@ exports.init = function (Cons, http) {
             var opt = {
                 host: _this.host,
                 path: Cons.urls.client.createOrder,
+                port: 8081,
                 data: /*_this.makeDataObject(*/ordeData/*)*/,
             }
-            
-            console.log("save to db opt", opt);
-            
+
+//            request.post({url:'http://18.221.7.8:8081/api/client/orders/create-order', form: ordeData}, function(err,httpResponse, body){ 
+//                if(err)
+//                    console.log('err: '+err);
+//
+//                if (typeof body == 'string')
+//                    req = JSON.parse(body);
+//                
+//                console.log("req >>> ", req);
+//
+//                if (req.data) {
+//                    console.log("saveRquestDataResponse ------------------------------- ", req.data);
+//                    callback(req.data);
+//                }
+//            })
+
+            console.log("saveToDB options >>> ", opt);
+
             http.post(opt, function (req) {
-                if(typeof req == 'string')
+
+                console.log("saveToDB >>> ", req);
+
+                if (typeof req == 'string')
                     req = JSON.parse(req);
 
-                if (req.data){
-                    console.log("saveRquestDataResponse ------------------------------- ",req.data);
+                if (req.data) {
+                    console.log("saveRquestDataResponse ------------------------------- ", req.data);
                     callback(req.data);
                 }
             }, function (e) {
@@ -103,7 +127,9 @@ exports.init = function (Cons, http) {
          */
         assainDriverTotrip: function (orderToken, driverToken, callback, err) {
 
-            _this.updateTrip(orderToken.substring(3), 'driver_id', driverToken.substring(2), function (res) {
+            console.log('assainDriverTotrip:>>> ', orderToken, driverToken);
+
+            _this.updateTrip(orderToken, 'driver_id', driverToken.substring(2), function (res) {
                 if (callback != undefined)
                     callback(res)
             }, function (e) {

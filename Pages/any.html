@@ -155,7 +155,8 @@
     function acceptOrder() {
         socket.emit('acceptOrder', {
             connToken: "dr6",
-            orderId: document.getElementById('acceptOrder').value,
+            tripToken: document.getElementById('tripToken').value,
+            orderId: document.getElementById('acceptOrder').value
         });
     }
 
@@ -225,6 +226,7 @@
     });
     socket.on('newOrderReceived', function (data) {
         console.log('newOrderReceived',data);
+        console.log('tripToken',data['tripToken']);
     })
     socket.on('suggestionAccepted', function (data) {
         console.log('suggestionAccepted', data)

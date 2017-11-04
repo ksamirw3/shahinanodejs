@@ -3,9 +3,15 @@ module.exports.init = function (App, socket) {
     socket.on('acceptOrder', function (Req) {
         try {
             var trip = App.trips.get(Req.tripToken);
+            
+//            let alltrip = App.trips.all();
+            
+            console.log("trip >>", trip);
 
             console.log("tripDetails   from acceptOrder", Req, trip);
+            
             if (trip == undefined) {
+                console.log("trip orderAlreadyAccepted..");
                 socket.emit("orderAlreadyAccepted");
                 return;
             }
@@ -150,6 +156,7 @@ var helper = function (App) {
          */
 
         assainDriverToTripInDatabase: function (orderId, driverToken) {
+            console.log('assainDriverToTripInDatabase:>>> ', orderId, driverToken);
             App.modules.order.assainDriverTotrip(orderId, driverToken, function (res) {
                 console.log("order " + orderId + " update with : " + driverToken);
             })

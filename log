@@ -20093,3 +20093,289 @@ info    :2017-10-24 19:06:33:cl1738622276363211 add with key : eq0rZCym1BL3U_4vA
 Error   :2017-10-24 19:27:07:request from client token : cl1738622276363211
 Error   :2017-10-24 19:35:31:eq0rZCym1BL3U_4vAAAA was logout with message transport close
 Error   :2017-10-25 22:53:30:c_yQTNYS4paUIaMYAAAA was logout with message transport close
+info    :2017-11-03 13:00:12:cl1234566 add with key : D1tS8SXrjwMToCCeAAAA
+info    :2017-11-03 13:00:44:dr15 add with key : D1tS8SXrjwMToCCeAAAA
+Error   :2017-11-03 13:01:40:[object Object]
+Error   :2017-11-03 13:01:40:Cannot read property 'connToken' of undefined
+Error   :2017-11-03 13:01:41:[object Object]
+Error   :2017-11-03 13:01:41:Cannot read property 'connToken' of undefined
+Error   :2017-11-03 13:01:42:Cannot read property 'connToken' of undefined
+Error   :2017-11-03 13:01:55:[object Object]
+Error   :2017-11-03 13:01:55:Cannot read property 'connToken' of undefined
+Error   :2017-11-03 13:01:57:Cannot read property 'connToken' of undefined
+Error   :2017-11-03 13:06:50:D1tS8SXrjwMToCCeAAAA was logout with message transport close
+Error   :2017-11-03 13:06:51:Vg-U_dwqTR7aD2TqAAAC was logout with message transport close
+Error   :2017-11-03 13:07:01:uqiilp4irY_wqh33AAAF was logout with message transport close
+Error   :2017-11-03 13:08:16:-K_dyd8ioCPM6XxzAAAD was logout with message ping timeout
+Error   :2017-11-03 13:08:16:XKmQfoY6XrLOvycrAAAE was logout with message ping timeout
+Error   :2017-11-03 13:10:49:lt-l0Kmk8liTPV3AAAAG was logout with message transport close
+Error   :2017-11-03 13:10:52:I1Q8tvxx1OlbaXweAAAH was logout with message transport close
+Error   :2017-11-03 13:10:53:mZEm1d0YZ184b8dNAAAI was logout with message transport close
+Error   :2017-11-03 13:10:56:KX5Is5UtKmqWE_GHAAAJ was logout with message transport close
+Error   :2017-11-03 13:14:33:pT59s497ilKBUdS2AAAK was logout with message transport close
+Error   :2017-11-03 13:14:36:SlpQLARH0og29gSOAAAL was logout with message transport close
+Error   :2017-11-03 13:14:39:JNCB6hZZ5FTsuL5yAAAM was logout with message transport close
+Error   :2017-11-03 13:15:29:z6L3aU8fNm0kFP3ZAAAB was logout with message transport close
+Error   :2017-11-03 13:15:31:LfZTHD1qpBkjVdqtAAAC was logout with message transport close
+Error   :2017-11-03 13:16:08:EfddWfhuNzeaYZ06AAAD was logout with message transport close
+info    :2017-11-03 13:17:14:dr1 add with key : ZOs2-22HcF4ySPHQAAAE
+Error   :2017-11-03 13:20:35:6I_j_cXcm4kRbfbqAAAB was logout with message transport close
+info    :2017-11-03 13:20:53:dr1 add with key : ZVoE3DZXPYNTfRe_AAAC
+Error   :2017-11-03 13:21:41:ZVoE3DZXPYNTfRe_AAAC was logout with message transport close
+info    :2017-11-03 13:22:10:dr15 add with key : hpGWwrhkCDCjV5-4AAAD
+Error   :2017-11-03 13:50:11:request from client token : dr15
+Error   :2017-11-03 14:23:11:hpGWwrhkCDCjV5-4AAAD was logout with message transport close
+Error   :2017-11-03 14:25:59:LXY8XQopg7ae6nBKAAAE was logout with message transport close
+Error   :2017-11-03 14:26:40:T-dv1p17JYRnARcTAAAA was logout with message transport close
+info    :2017-11-03 14:26:53:dr6 add with key : O_lf7434MLpTBmh-AAAC
+Error   :2017-11-03 14:27:04:request from client token : dr6
+info    :2017-11-03 14:27:04: emit new order receved to driver : O_lf7434MLpTBmh-AAAC
+info    :2017-11-03 14:27:34:set time out for trip token  : ffrdXbCRfBUDOeQF
+Error   :2017-11-03 14:33:41:dUlDDA2DRWUStFRNAAAB was logout with message transport close
+info    :2017-11-03 14:33:51:dr6 add with key : roZa0RP7AYgI0FIKAAAC
+Error   :2017-11-03 14:34:03:request from client token : dr6
+info    :2017-11-03 14:34:03: emit new order receved to driver : roZa0RP7AYgI0FIKAAAC
+info    :2017-11-03 14:34:33:set time out for trip token  : 53qg7nnJXnNurxP1
+Error   :2017-11-03 14:35:20:roZa0RP7AYgI0FIKAAAC was logout with message transport close
+info    :2017-11-03 14:35:40:dr6 add with key : -GMqVwxAKAbQZ8SiAAAD
+Error   :2017-11-03 14:36:15:-GMqVwxAKAbQZ8SiAAAD was logout with message transport close
+Error   :2017-11-03 14:36:16:zgM0y1qA2Gmr-OTgAAAE was logout with message transport close
+info    :2017-11-03 14:36:30:dr6 add with key : _DMb8VAWFwh0eFP8AAAG
+Error   :2017-11-03 14:36:38:request from client token : dr6
+Error   :2017-11-03 14:37:41:CllRpd-Jt3qBNhTPAAAF was logout with message ping timeout
+Error   :2017-11-03 14:39:21:_DMb8VAWFwh0eFP8AAAG was logout with message transport close
+Error   :2017-11-03 14:40:08:bsm_RoUDUdkoXushAAAB was logout with message transport close
+info    :2017-11-03 14:40:19:dr6 add with key : dvsp-TQMx3HG4XcoAAAC
+Error   :2017-11-03 14:40:37:request from client token : dr6
+info    :2017-11-03 14:40:37: emit new order receved to driver : dvsp-TQMx3HG4XcoAAAC
+info    :2017-11-03 14:40:52:accept order start
+info    :2017-11-03 14:40:52:client request : dvsp-TQMx3HG4XcoAAAC
+Error   :2017-11-03 14:53:31:Ivkmj9-bfD9aExqlAAAB was logout with message transport close
+info    :2017-11-03 14:53:46:dr6 add with key : pThY7xN9Qwq3PdphAAAC
+Error   :2017-11-03 14:54:28:At3xCP951d298DcqAAAA was logout with message transport close
+info    :2017-11-03 14:54:37:dr6 add with key : j2-MHb6qdm0oSATFAAAC
+info    :2017-11-03 14:56:48:dr6 add with key : J7Rf4xw_8rHqO8A_AAAB
+Error   :2017-11-03 14:57:50:Vpr-cyyMEGtOrRa_AAAA was logout with message transport close
+info    :2017-11-03 14:57:59:dr6 add with key : B3XiyCFkoPBFY2k1AAAC
+Error   :2017-11-03 14:59:34:L3qT0U_1vFMf1xu9AAAA was logout with message transport close
+info    :2017-11-03 15:00:49:dr6 add with key : yj3bZyxZsaWLe5CLAAAB
+Error   :2017-11-03 15:01:48:GrUvo3gmoCsDFPnzAAAA was logout with message transport close
+Error   :2017-11-03 15:01:50:x6FYM04a_1xxt0dYAAAC was logout with message transport close
+info    :2017-11-03 15:02:03:dr6 add with key : ersfe16PsGT1GlBgAAAD
+Error   :2017-11-03 15:05:11:E0TFNF4FnQc4aue6AAAB was logout with message transport close
+Error   :2017-11-03 15:05:11:0crWFrw8bRC91iBCAAAC was logout with message transport close
+Error   :2017-11-03 15:06:22:hRX2axga5kysamMtAAAB was logout with message transport close
+Error   :2017-11-03 15:08:34:Cannot read property 'type' of undefined
+Error   :2017-11-03 15:08:34:Cannot read property 'type' of undefined
+Error   :2017-11-03 15:08:43:RiE2X3ULivg9Ez_9AAAB was logout with message transport close
+Error   :2017-11-03 15:08:53:Cannot read property 'type' of undefined
+info    :2017-11-03 15:08:57:dr6 add with key : bd0jJGxsnYnFuAYRAAAC
+info    :2017-11-03 16:27:03:dr6 add with key : qa4GJvomNviw3aLUAAAB
+Error   :2017-11-03 16:28:47:O2sIlEgXget98QxQAAAA was logout with message transport close
+Error   :2017-11-03 16:28:47:uPCXlDmkisaRt60SAAAC was logout with message transport close
+Error   :2017-11-03 16:28:48:UoOEtz9C23ozLaLCAAAE was logout with message transport error
+Error   :2017-11-03 16:32:53:CChsUze8wk18vpPKAAAB was logout with message transport close
+info    :2017-11-03 16:33:00:dr6 add with key : ck0H3osuEmp6632GAAAC
+Error   :2017-11-03 16:34:54:fcharC5PI6HElFxtAAAB was logout with message transport close
+Error   :2017-11-03 16:34:58:F6Fmj7PN2x32A3MSAAAC was logout with message transport close
+Error   :2017-11-03 16:35:44:L7PsQrgHdcp4cSBGAAAD was logout with message transport close
+Error   :2017-11-03 16:35:47:wtp_9RStHbx7x0sDAAAE was logout with message transport close
+Error   :2017-11-03 16:36:48:_l69rIUXrnE1vx3pAAAB was logout with message transport close
+Error   :2017-11-03 16:36:51:Cannot read property 'type' of undefined
+info    :2017-11-03 16:37:08:cl1 add with key : qIR83zfgVD2bMimZAAAC
+Error   :2017-11-03 16:45:59:aDhhmPtpGbxvCK0AAAAA was logout with message transport close
+Error   :2017-11-03 16:46:22:yJhqjlFWveQ1NreGAAAA was logout with message transport close
+info    :2017-11-03 16:46:33:dr6 add with key : B1Js-3VSNPht196jAAAC
+Error   :2017-11-03 16:48:31:illjJDdjf2IqGBP8AAAA was logout with message transport close
+info    :2017-11-03 16:48:41:dr6 add with key : -stECY-KI7qLdcQAAAAC
+Error   :2017-11-03 17:09:04:H-1Ix-9bXB4Gxi69AAAA was logout with message transport close
+info    :2017-11-03 17:09:25:dr6 add with key : MFYaF4x9L0t8F3OJAAAC
+Error   :2017-11-03 17:22:16:dC0lp-CLU8BQE6EbAAAA was logout with message transport close
+info    :2017-11-03 17:22:23:dr6 add with key : 7Z2JmVjEzUJTNFsTAAAC
+info    :2017-11-03 17:24:14:dr6 add with key : fIuGETIHHo7Ji5MCAAAB
+Error   :2017-11-03 17:27:23:CHnS4Bc0SUbCDFEfAAAB was logout with message transport close
+info    :2017-11-03 17:27:30:dr6 add with key : 6etA5VTd3pIbv1o8AAAC
+Error   :2017-11-03 17:30:12:6bDZQUy8SukM_qzUAAAA was logout with message transport close
+info    :2017-11-03 17:30:21:cl6 add with key : 53ZSFrFYG3UORi4qAAAC
+Error   :2017-11-03 17:32:43:A5EcE1Jl4kOAxsTFAAAA was logout with message transport close
+info    :2017-11-03 17:32:55:dr6 add with key : adg-Zhx3LRapfi26AAAC
+Error   :2017-11-03 17:36:05:231nEp0DMQj06OhTAAAB was logout with message transport close
+info    :2017-11-03 17:36:17:dr1 add with key : rXKjhdy2zi2yFxJDAAAC
+Error   :2017-11-03 17:37:23:hGS-T8gj515sfGICAAAA was logout with message transport close
+info    :2017-11-03 17:37:32:dr1 add with key : 2lW3fiVVXfGJCMswAAAC
+Error   :2017-11-03 21:01:38:cEXkGQSW_nWUg5flAAAA was logout with message transport close
+Error   :2017-11-03 21:01:39:M1zpJ2VrjculvtjtAAAC was logout with message transport close
+Error   :2017-11-03 21:01:39:ri_CSjNpkairVRvlAAAD was logout with message transport close
+Error   :2017-11-03 21:01:39:D0DPYPL7xzGcEOcUAAAE was logout with message transport error
+info    :2017-11-03 21:01:50:dr6 add with key : Cu1LF8spDeimdgs2AAAG
+Error   :2017-11-03 21:01:59:request from client token : dr6
+Error   :2017-11-03 21:02:09:Cu1LF8spDeimdgs2AAAG was logout with message transport close
+Error   :2017-11-03 21:02:10:eTSU6ExkcazxW14LAAAH was logout with message transport close
+info    :2017-11-03 21:02:20:dr6 add with key : lSIxfJcQvShPiwGPAAAK
+Error   :2017-11-03 21:02:26:request from client token : dr6
+info    :2017-11-03 21:02:26: emit new order receved to driver : lSIxfJcQvShPiwGPAAAK
+info    :2017-11-03 21:02:56:set time out for trip token  : etrPbIwL8XKdNKoV
+Error   :2017-11-03 21:03:04:MXfv1r9fsXS_mxd_AAAF was logout with message ping timeout
+Error   :2017-11-03 21:03:35:BAC40qKxxyYPi9PqAAAI was logout with message ping timeout
+Error   :2017-11-03 21:03:35:9JzbUpKO24wQ88wfAAAJ was logout with message ping timeout
+info    :2017-11-03 21:06:38:dr6 add with key : dZoDKpZ6nDjRSzhrAAAB
+Error   :2017-11-03 21:06:51:request from client token : dr6
+info    :2017-11-03 21:06:51: emit new order receved to driver : dZoDKpZ6nDjRSzhrAAAB
+info    :2017-11-03 21:07:21:set time out for trip token  : hTBBx+A+/n/1NnUR
+Error   :2017-11-03 21:12:56:dZoDKpZ6nDjRSzhrAAAB was logout with message transport close
+info    :2017-11-03 21:13:10:dr6 add with key : plAO7dUznXYjsTFWAAAC
+Error   :2017-11-03 21:13:29:request from client token : dr6
+info    :2017-11-03 21:13:29: emit new order receved to driver : plAO7dUznXYjsTFWAAAC
+info    :2017-11-03 21:13:39:accept order start
+info    :2017-11-03 21:13:39:client request : plAO7dUznXYjsTFWAAAC
+Error   :2017-11-03 21:19:01:plAO7dUznXYjsTFWAAAC was logout with message transport close
+info    :2017-11-03 21:19:10:dr6 add with key : WSwDfKlxCN6eneNGAAAD
+Error   :2017-11-03 21:19:35:request from client token : dr6
+Error   :2017-11-03 21:23:18:VEjpaD60V7kJVjjwAAAB was logout with message transport close
+info    :2017-11-03 21:23:26:dr6 add with key : VJNoC-nNb10nUa6YAAAC
+Error   :2017-11-03 21:23:39:request from client token : dr6
+info    :2017-11-03 21:23:39: emit new order receved to driver : VJNoC-nNb10nUa6YAAAC
+info    :2017-11-03 21:23:53:accept order start
+info    :2017-11-03 21:23:53:client request : VJNoC-nNb10nUa6YAAAC
+Error   :2017-11-03 21:30:33:9latZ3PkXPk4t0LmAAAA was logout with message transport close
+info    :2017-11-03 21:30:41:dr6 add with key : wbXI3jdOFXjwu3AhAAAC
+Error   :2017-11-03 21:30:57:request from client token : dr6
+info    :2017-11-03 21:30:57: emit new order receved to driver : wbXI3jdOFXjwu3AhAAAC
+info    :2017-11-03 21:31:11:accept order start
+info    :2017-11-03 21:31:11:client request : wbXI3jdOFXjwu3AhAAAC
+Error   :2017-11-03 21:32:33:oMcuilmH5h7HhmjcAAAB was logout with message transport close
+Error   :2017-11-03 21:32:34:50ZiPDD9gMYlYtDwAAAC was logout with message transport close
+info    :2017-11-03 21:32:43:dr6 add with key : W8UZv_jD3eO-UJrhAAAF
+Error   :2017-11-03 21:33:05:request from client token : dr6
+Error   :2017-11-03 21:33:44:ABnd4AaT66_G_qSbAAAB was logout with message transport close
+info    :2017-11-03 21:33:54:dr6 add with key : B3OAvFmeV0KNLfP7AAAF
+Error   :2017-11-03 21:34:11:request from client token : dr6
+info    :2017-11-03 21:34:11: emit new order receved to driver : B3OAvFmeV0KNLfP7AAAF
+info    :2017-11-03 21:34:26:accept order start
+info    :2017-11-03 21:34:26:client request : B3OAvFmeV0KNLfP7AAAF
+Error   :2017-11-03 21:35:09:PaJndxkPNJiCCWRoAAAC was logout with message ping timeout
+Error   :2017-11-03 21:35:09:1JBHgUPyjPdlwaa1AAAD was logout with message ping timeout
+Error   :2017-11-03 21:35:10:WHRNlkUG6tdudd3oAAAE was logout with message ping timeout
+Error   :2017-11-03 21:47:50:82E_hyE26HNnsdc6AAAB was logout with message transport close
+info    :2017-11-03 21:48:03:dr6 add with key : kFBnP7XZ7Eh5vLpWAAAC
+Error   :2017-11-03 21:48:13:request from client token : dr6
+info    :2017-11-03 21:48:13: emit new order receved to driver : kFBnP7XZ7Eh5vLpWAAAC
+info    :2017-11-03 21:48:22:accept order start
+info    :2017-11-03 21:48:22:client request : kFBnP7XZ7Eh5vLpWAAAC
+Error   :2017-11-03 21:49:58:8Op5ZpGoyYghm2UQAAAA was logout with message transport close
+info    :2017-11-03 21:50:07:dr6 add with key : va1fq9D8VyLI8TRnAAAF
+Error   :2017-11-03 21:50:25:request from client token : dr6
+info    :2017-11-03 21:50:25: emit new order receved to driver : va1fq9D8VyLI8TRnAAAF
+info    :2017-11-03 21:50:36:accept order start
+info    :2017-11-03 21:50:36:client request : va1fq9D8VyLI8TRnAAAF
+info    :2017-11-03 21:50:49:accept order start
+info    :2017-11-03 21:50:49:client request : va1fq9D8VyLI8TRnAAAF
+Error   :2017-11-03 21:51:08:va1fq9D8VyLI8TRnAAAF was logout with message transport close
+Error   :2017-11-03 21:51:09:RbWj65vPiH23xZ-bAAAG was logout with message transport close
+info    :2017-11-03 21:51:17:dr6 add with key : NVcd2TfsyNfCrcnPAAAI
+Error   :2017-11-03 21:51:23:xKP_RjAXapr0B7xEAAAC was logout with message ping timeout
+Error   :2017-11-03 21:51:24:51qtcToCmDGgmSkVAAAD was logout with message ping timeout
+Error   :2017-11-03 21:51:24:QvvvkOUnRcOpt1TPAAAE was logout with message ping timeout
+Error   :2017-11-03 21:51:33:NVcd2TfsyNfCrcnPAAAI was logout with message transport close
+Error   :2017-11-03 21:51:33:6J_Ii_pxqu-TazIEAAAJ was logout with message transport close
+info    :2017-11-03 21:51:44:dr6 add with key : kipj8SrrYMHPsqjyAAAN
+Error   :2017-11-03 21:51:57:request from client token : dr6
+Error   :2017-11-03 21:52:09:oFLt7SdcUXL5W5MMAAAB was logout with message transport close
+Error   :2017-11-03 21:52:10:ZAqSb85tG-cMx0NeAAAC was logout with message transport close
+info    :2017-11-03 21:52:20:dr6 add with key : Nb5ULZdNEOmP2z1GAAAG
+Error   :2017-11-03 21:52:36:request from client token : dr6
+info    :2017-11-03 21:52:36: emit new order receved to driver : Nb5ULZdNEOmP2z1GAAAG
+info    :2017-11-03 21:52:47:accept order start
+info    :2017-11-03 21:52:47:client request : Nb5ULZdNEOmP2z1GAAAG
+Error   :2017-11-03 21:53:35:lNhq91RkC8zq0EayAAAD was logout with message ping timeout
+Error   :2017-11-03 21:53:35:u9S0Qlm35zrmL-sfAAAE was logout with message ping timeout
+Error   :2017-11-03 21:53:35:5sD3bbava7B5n_uAAAAF was logout with message ping timeout
+Error   :2017-11-03 21:56:06:3aG46Funtl_95s1UAAAA was logout with message transport close
+info    :2017-11-03 21:56:15:dr6 add with key : hdIe1wVw2ZtwEO-9AAAF
+Error   :2017-11-03 21:56:25:request from client token : dr6
+info    :2017-11-03 21:56:25: emit new order receved to driver : hdIe1wVw2ZtwEO-9AAAF
+info    :2017-11-03 21:56:40:accept order start
+info    :2017-11-03 21:56:40:client request : hdIe1wVw2ZtwEO-9AAAF
+Error   :2017-11-03 21:57:31:sPAfp6lZ8jGgVotcAAAC was logout with message ping timeout
+Error   :2017-11-03 21:57:32:c2UZzV-yQez89lw2AAAD was logout with message ping timeout
+Error   :2017-11-03 21:57:32:klv1x3KxI9QJMDsZAAAE was logout with message ping timeout
+Error   :2017-11-03 22:00:32:jtJ0bCHE3qZdz77EAAAB was logout with message transport close
+Error   :2017-11-03 22:00:32:voOPGPueptUpJlFjAAAC was logout with message transport close
+Error   :2017-11-03 22:00:33:q-p4Nnz-uI_UINyPAAAE was logout with message transport error
+info    :2017-11-03 22:00:48:dr6 add with key : FdPjoEIAX1EgIBgXAAAG
+Error   :2017-11-03 22:01:21:AOoHPKHU-4XKqkwMAAAB was logout with message transport close
+Error   :2017-11-03 22:01:21:kzzkngued78SYnYTAAAC was logout with message transport close
+info    :2017-11-03 22:01:31:dr6 add with key : 2J7mB2YiSMtDr5RBAAAF
+Error   :2017-11-03 22:02:48:n_vfmbuGKZpNEAb1AAAA was logout with message transport close
+Error   :2017-11-03 22:02:48:lUaZDah-uaVdq7vuAAAC was logout with message transport close
+info    :2017-11-03 22:02:58:dr6 add with key : HrFirbTm9ESSrYlSAAAF
+Error   :2017-11-03 22:03:07:request from client token : dr6
+info    :2017-11-03 22:03:07: emit new order receved to driver : HrFirbTm9ESSrYlSAAAF
+info    :2017-11-03 22:03:37:set time out for trip token  : raasQTghmbI91K80
+Error   :2017-11-03 22:04:07:s5CZ4NTOqWOLOtSNAAAB was logout with message transport close
+info    :2017-11-03 22:04:14:dr6 add with key : f4wXsI9_Aa3_D-rZAAAD
+Error   :2017-11-03 22:10:12:DMM-SrARO4v6wR02AAAA was logout with message transport close
+Error   :2017-11-03 22:10:13:iy7JwiVYqbhAzQFAAAAC was logout with message transport close
+info    :2017-11-03 22:10:20:dr6 add with key : FeXFLoUpsQOZ5duwAAAE
+Error   :2017-11-03 22:14:10:UNiAXf9YwCPaAHI2AAAB was logout with message transport close
+info    :2017-11-03 22:14:18:dr6 add with key : Av-BR9o6kX6wwDitAAAC
+Error   :2017-11-03 22:18:46:5uhONJ3I6pP8blxrAAAB was logout with message transport close
+Error   :2017-11-03 22:18:47:bPOTuHMLJTbs2SYnAAAC was logout with message transport close
+info    :2017-11-03 22:18:54:dr6 add with key : XReCDHWgy4kAEF73AAAE
+Error   :2017-11-03 22:25:08:r-Cm3foVNFAOyc_xAAAB was logout with message transport close
+Error   :2017-11-03 22:25:09:wilB5xNs6y58jq3lAAAC was logout with message transport close
+info    :2017-11-03 22:25:18:dr6 add with key : j4ib4uW1-nmPPsUgAAAD
+Error   :2017-11-03 22:35:53:Jdl6VA1IA-fr4dEvAAAA was logout with message transport close
+info    :2017-11-03 22:36:09:dr6 add with key : y-6HV-r1eXyOw1LDAAAD
+Error   :2017-11-03 22:38:02:AZOxJaPlRV8MF4TtAAAB was logout with message transport close
+Error   :2017-11-03 22:38:02:HW_ecEMNNS-tmWamAAAC was logout with message transport close
+Error   :2017-11-03 22:38:03:Uo44qt8MK59weSzqAAAD was logout with message transport close
+info    :2017-11-03 22:38:10:dr6 add with key : 9mCXuuGdB_npwRTNAAAE
+Error   :2017-11-03 22:44:44:ccJItbCEMeMGNwYfAAAB was logout with message transport close
+Error   :2017-11-03 22:44:45:pmCs7fMO0GLkQkE5AAAC was logout with message transport close
+info    :2017-11-03 22:44:55:dr6 add with key : USZwrK0uxHr3i6HjAAAF
+Error   :2017-11-03 22:45:07:request from client token : dr6
+info    :2017-11-03 22:45:07: emit new order receved to driver : USZwrK0uxHr3i6HjAAAF
+info    :2017-11-03 22:45:37:set time out for trip token  : 8vtyMqlokvksZ4h/
+Error   :2017-11-03 22:46:10:9Wds8EejgvPmBcGTAAAD was logout with message ping timeout
+Error   :2017-11-03 22:46:11:PnnRS1UqT7q5LtvfAAAE was logout with message ping timeout
+Error   :2017-11-03 23:00:27:B9m6N2CdGFig86YsAAAB was logout with message transport close
+Error   :2017-11-03 23:00:27:tFzceZS-ZAXMsOqRAAAC was logout with message transport close
+Error   :2017-11-03 23:00:28:3r9kNzuDGWfqNXoSAAAD was logout with message transport close
+info    :2017-11-03 23:00:35:dr6 add with key : 3gMRx67rC6IDP0gyAAAE
+info    :2017-11-03 23:44:16:dr6 add with key : 1G2-Wg2PgnrL_5PuAAAB
+Error   :2017-11-03 23:45:13:O-nSgjPc-G1R_EUiAAAB was logout with message transport close
+info    :2017-11-03 23:45:29:dr6 add with key : KVGEK9ONW5hnJeTDAAAC
+Error   :2017-11-03 23:46:35:1IkxlGwBxcFr-WPDAAAB was logout with message transport close
+info    :2017-11-03 23:46:44:dr6 add with key : XpSDbItOkUVN9b5EAAAC
+Error   :2017-11-03 23:47:54:O1ZuzL8XSghaVylAAAAB was logout with message transport close
+info    :2017-11-03 23:48:00:dr6 add with key : _7p_QdzeafoHT7OlAAAC
+Error   :2017-11-03 23:49:19:FMyieJu5N6UZHgvvAAAA was logout with message transport close
+info    :2017-11-03 23:49:25:dr6 add with key : D0IHq8x3Fj2RbtZ4AAAB
+Error   :2017-11-03 23:55:47:s2REqwd9jwLMW5iqAAAB was logout with message transport close
+info    :2017-11-03 23:55:55:dr6 add with key : zohR6JPA3YYgH-j-AAAC
+Error   :2017-11-03 23:57:03:eRMHwyTNyF-X8NzIAAAA was logout with message transport close
+info    :2017-11-03 23:57:11:dr6 add with key : 2T9AN4mHWxvxwjJpAAAC
+Error   :2017-11-03 23:59:20:SVzcSQJy6Ki-TRiWAAAA was logout with message transport close
+info    :2017-11-03 23:59:29:dr6 add with key : zKQ-Rrt1VxW8gSEjAAAC
+Error   :2017-11-04 00:02:06:NyhPksAUoBf4JxXnAAAA was logout with message transport close
+info    :2017-11-04 00:02:17:dr6 add with key : lrnoMHBCP8JkJirXAAAC
+Error   :2017-11-04 00:02:34:request from client token : dr6
+Error   :2017-11-04 00:03:22:3eNtrGUJEoaI6aRqAAAA was logout with message transport close
+Error   :2017-11-04 00:03:23:lkeI15nctSjeUtvxAAAC was logout with message transport error
+Error   :2017-11-04 00:03:23:dSIfCvRz7QkYsQSEAAAD was logout with message transport error
+info    :2017-11-04 00:03:33:dr6 add with key : G-NJ-4pO3wz3aMqpAAAG
+Error   :2017-11-04 00:03:53:request from client token : dr6
+Error   :2017-11-04 00:04:21:G-NJ-4pO3wz3aMqpAAAG was logout with message transport close
+info    :2017-11-04 00:04:28:dr6 add with key : fRMyOxvdUVijlY10AAAH
+Error   :2017-11-04 00:04:37:request from client token : dr6
+Error   :2017-11-04 00:04:48:sXizNkDPtyy4G3QaAAAE was logout with message ping timeout
+Error   :2017-11-04 00:04:48:1juSGX0H6ld2s0mKAAAF was logout with message ping timeout
+info    :2017-11-04 00:06:34:dr6 add with key : lNtRUx1u0urgqZ5TAAAE
+Error   :2017-11-04 00:06:51:request from client token : dr6
+info    :2017-11-04 00:06:51: emit new order receved to driver : lNtRUx1u0urgqZ5TAAAE
+info    :2017-11-04 00:07:12:accept order start
+info    :2017-11-04 00:07:12:client request : lNtRUx1u0urgqZ5TAAAE
+Error   :2017-11-04 00:07:51:msRw0kiQ_6vOfT_CAAAA was logout with message ping timeout
+Error   :2017-11-04 00:07:52:PG5kXs1Bi_Ej9ZrsAAAC was logout with message ping timeout
+Error   :2017-11-04 00:07:52:xncepp7Le6CbqMN3AAAD was logout with message ping timeout
