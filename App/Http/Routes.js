@@ -26,13 +26,13 @@ exports.serve = function (app, ROOT_PATH) {
     app.get('/test', function (req, res) {
         console.log("test >>> ");
 
-        request('http://18.221.7.8:8081/api/driver/', function (error, response, body) {
-            console.log('error:', error); // Print the error if one occurred
-            console.log('statusCode:', response && response.statusCode); // Print the response status code if a response was received
-            console.log('body:', body); // Print the HTML for the Google homepage.
-        
-        res.send(body);
-        });
+//        request('http://18.221.7.8:8081/api/driver/', function (error, response, body) {
+//            console.log('error:', error); // Print the error if one occurred
+//            console.log('statusCode:', response && response.statusCode); // Print the response status code if a response was received
+//            console.log('body:', body); // Print the HTML for the Google homepage.
+//        
+//        res.send(body);
+//        });
 
 //        http.get({
 //            hostname: 'http://18.221.7.8',
@@ -44,10 +44,18 @@ exports.serve = function (app, ROOT_PATH) {
 //        });
 
 
-//            http.get("http://18.221.7.8:8081/api/driver/", (result) => {
+//        http.get("http://18.221.7.8:8081/api/driver/", (result) => {
 //                console.log("saveToDB res >>> ", result);
-//                res.send(result);
+//                res.send('hhhh');
 //        });
+
+        http.get({
+            host: '18.221.7.8',
+            uri: '/api/driver/',
+        }, (result) => {
+                console.log("saveToDB res >>> ", result);
+                res.send('hhhh');
+        });
     });
 
 }

@@ -7,6 +7,8 @@ services:
       context: ./
       dockerfile: Dockerfile
     working_dir: /app
+    dns:
+        - 8.8.8.8
     volumes:
       - ./:/app
     ports:

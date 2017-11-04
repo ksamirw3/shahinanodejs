@@ -20379,3 +20379,13 @@ info    :2017-11-04 00:07:12:client request : lNtRUx1u0urgqZ5TAAAE
 Error   :2017-11-04 00:07:51:msRw0kiQ_6vOfT_CAAAA was logout with message ping timeout
 Error   :2017-11-04 00:07:52:PG5kXs1Bi_Ej9ZrsAAAC was logout with message ping timeout
 Error   :2017-11-04 00:07:52:xncepp7Le6CbqMN3AAAD was logout with message ping timeout
+Error   :2017-11-04 00:13:47:lNtRUx1u0urgqZ5TAAAE was logout with message transport close
+Error   :2017-11-04 00:13:50:NWnRID8xi2hJc4adAAAB was logout with message transport close
+Error   :2017-11-04 16:37:44:65d8i9KaLHj-pU1rAAAA was logout with message transport close
+Error   :2017-11-04 16:37:48:ylpxRIBp6P9HhdqBAAAB was logout with message transport close
+info    :2017-11-04 16:41:47:dr6 add with key : Rh5GXzSQwOAvWyTNAAAC
+Error   :2017-11-04 16:42:11:request from client token : dr6
+info    :2017-11-04 16:42:11: emit new order receved to driver : Rh5GXzSQwOAvWyTNAAAC
+info    :2017-11-04 16:42:25:accept order start
+info    :2017-11-04 16:42:25:client request : Rh5GXzSQwOAvWyTNAAAC
+Error   :2017-11-04 17:58:10:w8Fk5oRrK_3y3iM5AAAA was logout with message transport close
