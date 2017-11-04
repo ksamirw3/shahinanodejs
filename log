@@ -20458,3 +20458,7 @@ Error   :2017-11-04 21:55:08:request from client token : dr6
 info    :2017-11-04 21:55:08: emit new order receved to driver : OERLsIzbv73QYO7nAAAC
 info    :2017-11-04 21:55:18:set time out for trip token  : AadQ/lQcUQ0a0Wvs
 info    :2017-11-04 21:55:38:set time out for trip token  : 5MeQpcuRe1iDQOeV
+Error   :2017-11-04 21:59:28:0Dn3wYBVvz9Hf5tgAAAA was logout with message transport close
+info    :2017-11-04 21:59:37:dr6 add with key : QGwHAbjbh6Zume9SAAAB
+Error   :2017-11-04 21:59:42:request from client token : dr6
+info    :2017-11-04 21:59:42: emit new order receved to driver : QGwHAbjbh6Zume9SAAAB

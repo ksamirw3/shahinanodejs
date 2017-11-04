@@ -12,7 +12,7 @@ exports.init = function (dirname) {
         apiURL: apiURL,
         clientApi: clientApi,
         driverApi: driverApi,
-        destLimit: 50,
+        destLimit: 1000, //50
         urls: {
             client: {
                 base: clientApi,
