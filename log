@@ -20389,3 +20389,52 @@ info    :2017-11-04 16:42:11: emit new order receved to driver : Rh5GXzSQwOAvWyT
 info    :2017-11-04 16:42:25:accept order start
 info    :2017-11-04 16:42:25:client request : Rh5GXzSQwOAvWyTNAAAC
 Error   :2017-11-04 17:58:10:w8Fk5oRrK_3y3iM5AAAA was logout with message transport close
+info    :2017-11-04 19:03:04:dr6 add with key : efu2a9l8V_2RuEgoAAAA
+Error   :2017-11-04 19:03:21:request from client token : dr6
+info    :2017-11-04 19:03:21: emit new order receved to driver : efu2a9l8V_2RuEgoAAAA
+info    :2017-11-04 19:03:51:set time out for trip token  : gc+ebhE1Yo4fEBUK
+info    :2017-11-04 19:06:23:dr6 add with key : gkOUr4Z7wKRnQj1iAAAA
+Error   :2017-11-04 19:06:33:request from client token : 6
+Error   :2017-11-04 19:06:33:TypeError: Cannot read property '6' of undefined
+Error   :2017-11-04 19:10:31:gkOUr4Z7wKRnQj1iAAAA was logout with message transport close
+info    :2017-11-04 19:10:43:dr6 add with key : D_HcBED9LFNqkg48AAAB
+Error   :2017-11-04 19:10:48:request from client token : 6
+Error   :2017-11-04 19:10:48:TypeError: Cannot read property '6' of undefined
+Error   :2017-11-04 19:15:32:1BhqQewVPnZO13cgAAAA was logout with message transport close
+Error   :2017-11-04 19:15:32:zBVbMLNhR66zZl5fAAAB was logout with message transport close
+info    :2017-11-04 19:15:40:dr6 add with key : SYEQmmYMn1IPHrlQAAAC
+Error   :2017-11-04 19:15:44:request from client token : dr6
+info    :2017-11-04 19:15:44: emit new order receved to driver : SYEQmmYMn1IPHrlQAAAC
+info    :2017-11-04 19:16:14:set time out for trip token  : AlEDZRacR30/wpa8
+Error   :2017-11-04 19:16:19:SYEQmmYMn1IPHrlQAAAC was logout with message transport close
+info    :2017-11-04 19:16:27:dr6 add with key : IPOvK6ombSg9jiF3AAAD
+Error   :2017-11-04 19:16:45:request from client token : dr6
+info    :2017-11-04 19:16:45: emit new order receved to driver : IPOvK6ombSg9jiF3AAAD
+info    :2017-11-04 19:17:02:accept order start
+info    :2017-11-04 19:17:02:client request : IPOvK6ombSg9jiF3AAAD
+Error   :2017-11-04 19:20:03:TrRgpy2OYpOF8yl5AAAA was logout with message transport close
+info    :2017-11-04 19:20:09:dr6 add with key : 0HfsTyRfL27zA0b5AAAB
+Error   :2017-11-04 19:20:33:request from client token : dr6
+info    :2017-11-04 19:20:33: emit new order receved to driver : 0HfsTyRfL27zA0b5AAAB
+info    :2017-11-04 19:20:46:accept order start
+info    :2017-11-04 19:20:46:client request : 0HfsTyRfL27zA0b5AAAB
+Error   :2017-11-04 19:25:49:0HfsTyRfL27zA0b5AAAB was logout with message transport close
+info    :2017-11-04 19:25:56:dr6 add with key : oMyAZfh8VJs1XX-7AAAC
+Error   :2017-11-04 19:26:13:request from client token : dr6
+Error   :2017-11-04 19:26:24:oMyAZfh8VJs1XX-7AAAC was logout with message transport close
+Error   :2017-11-04 19:26:47:uouX4Y_3opcg19tCAAAA was logout with message transport close
+info    :2017-11-04 19:26:55:dr6 add with key : omXpk0nj3vl0UpZ2AAAB
+Error   :2017-11-04 19:27:10:request from client token : dr6
+info    :2017-11-04 19:27:10: emit new order receved to driver : omXpk0nj3vl0UpZ2AAAB
+info    :2017-11-04 19:27:20:accept order start
+info    :2017-11-04 19:27:20:client request : omXpk0nj3vl0UpZ2AAAB
+Error   :2017-11-04 19:28:28:krRACosbZBcA6aCZAAAA was logout with message transport close
+info    :2017-11-04 19:28:34:dr6 add with key : MUjHOki5XMRQRf7YAAAD
+Error   :2017-11-04 19:28:45:request from client token : dr6
+info    :2017-11-04 19:28:45: emit new order receved to driver : MUjHOki5XMRQRf7YAAAD
+Error   :2017-11-04 19:28:55:New Suugest fot trip 'ej3kRZ4xEWYgID5q' with token dr6
+Error   :2017-11-04 19:28:55:Cannot read property 'waitingDrivers' of undefined
+info    :2017-11-04 19:28:57:accept order start
+info    :2017-11-04 19:28:57:client request : MUjHOki5XMRQRf7YAAAD
+Error   :2017-11-04 19:29:53:NWx2_6_XSkjzHJdxAAAB was logout with message ping timeout
+Error   :2017-11-04 19:29:53:HLF9Cr5e_rbn8GjxAAAC was logout with message ping timeout
