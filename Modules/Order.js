@@ -79,11 +79,15 @@ exports.init = function (Cons, http) {
          */
         saveToDB: function (ordeData, callback, err) {
             
-            if(ordeData.client_id && ordeData.client_id.indexOf("dr")){
+            if(ordeData.client_id && ordeData.client_id.indexOf("dr") > -1){
                 ordeData.client_id = ordeData.client_id.substring(2);
             }
             
             console.log("saveToDB ordeData >>> ", ordeData);
+            
+            if(ordeData['client_id'].indexOf("dr") > -1){
+                console.log("saveToDB ordeData >>> ", ordeData['client_id']);
+            }
             
             
             var opt = {
